@@ -36,18 +36,25 @@ class PoissonModel(SoccerModel):
             self.away_defense[team] = away_games['home_score'].mean() / self.avg_home_goals if len(away_games) > 0 else 1.0
     
     def predict_probs(self, home_team, away_team):
+        # Check if we have data for these teams
+        if (home_team not in self.home_attack or 
+            away_team not in self.away_attack or
+            home_team not in self.away_defense or
+            away_team not in self.home_defense):
+            return None
+    
         home_expected = (self.avg_home_goals * 
-                        self.home_attack.get(home_team, 1.0) * 
-                        self.away_defense.get(away_team, 1.0))
+                        self.home_attack[home_team] * 
+                        self.away_defense[away_team])
         away_expected = (self.avg_away_goals * 
-                        self.away_attack.get(away_team, 1.0) * 
-                        self.home_defense.get(home_team, 1.0))
-        
+                        self.away_attack[away_team] * 
+                        self.home_defense[home_team])
+    
         max_goals = 10
         prob_home = 0.0
         prob_draw = 0.0
         prob_away = 0.0
-        
+    
         for h in range(max_goals + 1):
             for a in range(max_goals + 1):
                 prob = poisson.pmf(h, home_expected) * poisson.pmf(a, away_expected)
@@ -57,10 +64,10 @@ class PoissonModel(SoccerModel):
                     prob_draw += prob
                 else:
                     prob_away += prob
-        
-        # Sanity check - if any probability is exactly 1.0 or 0.0, something went wrong
+    
         if prob_home > 0.99 or prob_draw > 0.99 or prob_away > 0.99:
-            return {Outcome.HOME: 0.33, Outcome.DRAW: 0.33, Outcome.AWAY: 0.34}
+            return None
+    
         return {Outcome.HOME: prob_home, Outcome.DRAW: prob_draw, Outcome.AWAY: prob_away}
 
 

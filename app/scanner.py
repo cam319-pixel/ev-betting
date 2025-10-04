@@ -47,6 +47,8 @@ class ValueBetScanner:
                 event = market_odds.event
                 try:
                     model_probs = model.predict_probs(event.home_team, event.away_team)
+                    if model_probs is None:
+                        continue
                 except:
                     continue
                 

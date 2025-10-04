@@ -1,4 +1,5 @@
 import pickle
+import pandas as pd
 from datetime import datetime, timedelta
 from pathlib import Path
 from app.config import get_config
@@ -22,7 +23,15 @@ class ModelSelector:
                 with open(cache_file, "rb") as f:
                     return pickle.load(f)
         
+        # Get historical results
         df = self.db.get_historical_results(sport=sport.value, league=league)
+        
+        # FILTER TO ONLY RECENT DATA (last 2 years)
+        if len(df) > 0 and 'match_date' in df.columns:
+            df['match_date'] = pd.to_datetime(df['match_date'], format='mixed', utc=True)
+            cutoff_date = pd.Timestamp(datetime.now() - timedelta(days=730), tz='UTC')  # Make it timezone-aware
+            df = df[df['match_date'] >= cutoff_date]
+            print(f"  Training on {len(df)} games from last 2 years (filtered from older data)")
         
         if len(df) < self.config.modeling.min_historical_games:
             model = PoissonModel()
