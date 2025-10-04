@@ -1,0 +1,2 @@
+[console_scripts]
+evbet = app.cli:app
