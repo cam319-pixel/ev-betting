@@ -1,0 +1,576 @@
+event_id,league,start_time_local,home_team,away_team,bookmaker,market,outcome,price_decimal,model_prob,market_prob_devig,edge_pct,ev,kelly_stake
+arsenal_west ham_20251004,soccer_epl,2025-10-04 10:00,arsenal,west ham,betfair_ex_uk,match_winner,away,17.50,0.3831,0.0568,573.92,5.7038,1728.41
+inter milan_cremonese_20251004,soccer_italy_serie_a,2025-10-04 12:00,inter milan,cremonese,betfair_ex_eu,moneyline,away,18.00,0.3400,0.0552,516.17,5.1200,1505.88
+inter milan_cremonese_20251004,soccer_italy_serie_a,2025-10-04 12:00,inter milan,cremonese,betfair_ex_eu,moneyline,away,18.00,0.3400,0.0552,516.17,5.1200,1505.88
+inter milan_cremonese_20251004,soccer_italy_serie_a,2025-10-04 12:00,inter milan,cremonese,betfair_ex_eu,match_winner,away,18.00,0.3353,0.0552,507.67,5.0357,1481.08
+arsenal_west ham_20251004,soccer_epl,2025-10-04 10:00,arsenal,west ham,betfair_ex_uk,moneyline,away,17.50,0.3400,0.0568,498.15,4.9500,1500.00
+arsenal_west ham_20251004,soccer_epl,2025-10-04 10:00,arsenal,west ham,betfair_ex_uk,moneyline,away,17.50,0.3400,0.0568,498.15,4.9500,1500.00
+barcelona_olympiakos piraeus_20251021,soccer_uefa_champs_league,2025-10-21 12:45,barcelona,olympiakos piraeus,coolbet,moneyline,away,16.00,0.3400,0.0607,459.87,4.4400,1480.00
+barcelona_olympiakos piraeus_20251021,soccer_uefa_champs_league,2025-10-21 12:45,barcelona,olympiakos piraeus,coolbet,moneyline,away,16.00,0.3400,0.0607,459.87,4.4400,1480.00
+barcelona_girona_20251018,soccer_spain_la_liga,2025-10-18 10:15,barcelona,girona,onexbet,moneyline,away,16.00,0.3400,0.0617,451.25,4.4400,1480.00
+barcelona_girona_20251018,soccer_spain_la_liga,2025-10-18 10:15,barcelona,girona,onexbet,moneyline,away,16.00,0.3400,0.0617,451.25,4.4400,1480.00
+barcelona_olympiakos piraeus_20251021,soccer_uefa_champs_league,2025-10-21 12:45,barcelona,olympiakos piraeus,coolbet,match_winner,away,16.00,0.3353,0.0607,452.15,4.3650,1455.01
+barcelona_girona_20251018,soccer_spain_la_liga,2025-10-18 10:15,barcelona,girona,onexbet,match_winner,away,16.00,0.3353,0.0617,443.66,4.3650,1455.01
+bayern munich_club brugge_20251022,soccer_uefa_champs_league,2025-10-22 15:00,bayern munich,club brugge,suprabets,moneyline,away,12.00,0.3400,0.0818,315.52,3.0800,1400.00
+bayern munich_club brugge_20251022,soccer_uefa_champs_league,2025-10-22 15:00,bayern munich,club brugge,suprabets,moneyline,away,12.00,0.3400,0.0818,315.52,3.0800,1400.00
+chelsea_ajax_20251022,soccer_uefa_champs_league,2025-10-22 15:00,chelsea,ajax,coolbet,match_winner,away,11.00,0.3700,0.0880,320.31,3.0697,1534.86
+bayern munich_club brugge_20251022,soccer_uefa_champs_league,2025-10-22 15:00,bayern munich,club brugge,suprabets,match_winner,away,12.00,0.3353,0.0818,309.79,3.0238,1374.44
+chelsea_ajax_20251022,soccer_uefa_champs_league,2025-10-22 15:00,chelsea,ajax,coolbet,moneyline,away,11.00,0.3400,0.0880,286.26,2.7400,1370.00
+chelsea_ajax_20251022,soccer_uefa_champs_league,2025-10-22 15:00,chelsea,ajax,coolbet,moneyline,away,11.00,0.3400,0.0880,286.26,2.7400,1370.00
+paris saint germain_strasbourg_20251017,soccer_france_ligue_one,2025-10-17 14:45,paris saint germain,strasbourg,onexbet,moneyline,away,10.90,0.3400,0.0902,276.97,2.7060,1366.67
+paris saint germain_strasbourg_20251017,soccer_france_ligue_one,2025-10-17 14:45,paris saint germain,strasbourg,onexbet,moneyline,away,10.90,0.3400,0.0902,276.97,2.7060,1366.67
+paris saint germain_strasbourg_20251017,soccer_france_ligue_one,2025-10-17 14:45,paris saint germain,strasbourg,onexbet,match_winner,away,10.90,0.3353,0.0902,271.77,2.6549,1340.87
+athletic bilbao_qarabağ fk_20251022,soccer_uefa_champs_league,2025-10-22 12:45,athletic bilbao,qarabağ fk,nordicbet,moneyline,away,10.50,0.3400,0.0906,275.34,2.5700,1352.63
+athletic bilbao_qarabağ fk_20251022,soccer_uefa_champs_league,2025-10-22 12:45,athletic bilbao,qarabağ fk,nordicbet,moneyline,away,10.50,0.3400,0.0906,275.34,2.5700,1352.63
+athletic bilbao_qarabağ fk_20251022,soccer_uefa_champs_league,2025-10-22 12:45,athletic bilbao,qarabağ fk,nordicbet,match_winner,away,10.50,0.3353,0.0906,270.17,2.5208,1326.74
+barcelona_girona_20251018,soccer_spain_la_liga,2025-10-18 10:15,barcelona,girona,tipico_de,moneyline,draw,10.50,0.3300,0.0899,267.12,2.4650,1297.37
+barcelona_girona_20251018,soccer_spain_la_liga,2025-10-18 10:15,barcelona,girona,tipico_de,moneyline,draw,10.50,0.3300,0.0899,267.12,2.4650,1297.37
+napoli_genoa_20251005,soccer_italy_serie_a,2025-10-05 12:00,napoli,genoa,betfair_ex_uk,moneyline,away,9.80,0.3400,0.1019,233.62,2.3320,1325.00
+napoli_genoa_20251005,soccer_italy_serie_a,2025-10-05 12:00,napoli,genoa,betfair_ex_uk,moneyline,away,9.80,0.3400,0.1019,233.62,2.3320,1325.00
+marseille_le havre_20251018,soccer_france_ligue_one,2025-10-18 15:05,marseille,le havre,onexbet,moneyline,away,9.70,0.3400,0.1016,234.67,2.2980,1320.69
+marseille_le havre_20251018,soccer_france_ligue_one,2025-10-18 15:05,marseille,le havre,onexbet,moneyline,away,9.70,0.3400,0.1016,234.67,2.2980,1320.69
+napoli_genoa_20251005,soccer_italy_serie_a,2025-10-05 12:00,napoli,genoa,betfair_ex_uk,match_winner,away,9.80,0.3353,0.1019,229.02,2.2861,1298.91
+marseille_le havre_20251018,soccer_france_ligue_one,2025-10-18 15:05,marseille,le havre,onexbet,match_winner,away,9.70,0.3353,0.1016,230.05,2.2525,1294.57
+liverpool_man_20251019,soccer_epl,2025-10-19 11:30,liverpool,man,betfair_ex_eu,match_winner,away,7.20,0.4481,0.1387,223.09,2.2263,1795.37
+barcelona_girona_20251018,soccer_spain_la_liga,2025-10-18 10:15,barcelona,girona,tipico_de,match_winner,draw,10.50,0.2804,0.0899,211.89,1.9437,1023.01
+man_everton_20251018,soccer_epl,2025-10-18 10:00,man,everton,betfair_ex_eu,moneyline,away,8.40,0.3400,0.1175,189.25,1.8560,1254.05
+man_everton_20251018,soccer_epl,2025-10-18 10:00,man,everton,betfair_ex_eu,moneyline,away,8.40,0.3400,0.1175,189.25,1.8560,1254.05
+eintracht frankfurt_bayern munich_20251004,soccer_germany_bundesliga,2025-10-04 12:30,eintracht frankfurt,bayern munich,smarkets,match_winner,home,7.40,0.3843,0.1336,187.75,1.8441,1440.67
+man_everton_20251018,soccer_epl,2025-10-18 10:00,man,everton,betfair_ex_eu,match_winner,away,8.40,0.3353,0.1175,185.26,1.8166,1227.46
+atlético madrid_ca osasuna_20251018,soccer_spain_la_liga,2025-10-18 15:00,atlético madrid,ca osasuna,onexbet,moneyline,away,8.25,0.3400,0.1193,185.04,1.8050,1244.83
+atlético madrid_ca osasuna_20251018,soccer_spain_la_liga,2025-10-18 15:00,atlético madrid,ca osasuna,onexbet,moneyline,away,8.25,0.3400,0.1193,185.04,1.8050,1244.83
+atlético madrid_ca osasuna_20251018,soccer_spain_la_liga,2025-10-18 15:00,atlético madrid,ca osasuna,onexbet,match_winner,away,8.25,0.3353,0.1193,181.11,1.7663,1218.17
+barcelona_olympiakos piraeus_20251021,soccer_uefa_champs_league,2025-10-21 12:45,barcelona,olympiakos piraeus,betfair_ex_uk,moneyline,draw,8.20,0.3300,0.1185,178.54,1.7060,1184.72
+barcelona_olympiakos piraeus_20251021,soccer_uefa_champs_league,2025-10-21 12:45,barcelona,olympiakos piraeus,betfair_ex_uk,moneyline,draw,8.20,0.3300,0.1185,178.54,1.7060,1184.72
+getafe_real madrid_20251019,soccer_spain_la_liga,2025-10-19 15:00,getafe,real madrid,leovegas,match_winner,home,7.00,0.3843,0.1328,189.32,1.6903,1408.60
+metz_marseille_20251004,soccer_france_ligue_one,2025-10-04 11:00,metz,marseille,betfair_ex_eu,match_winner,home,7.00,0.3843,0.1416,171.51,1.6903,1408.60
+vfb stuttgart_1 heidenheim_20251005,soccer_germany_bundesliga,2025-10-05 09:30,vfb stuttgart,1 heidenheim,betfair_ex_uk,moneyline,away,7.80,0.3400,0.1280,165.68,1.6520,1214.71
+vfb stuttgart_1 heidenheim_20251005,soccer_germany_bundesliga,2025-10-05 09:30,vfb stuttgart,1 heidenheim,betfair_ex_uk,moneyline,away,7.80,0.3400,0.1280,165.68,1.6520,1214.71
+fulham_arsenal_20251018,soccer_epl,2025-10-18 12:30,fulham,arsenal,fanduel,match_winner,home,5.40,0.4889,0.1778,174.89,1.6400,1863.66
+vfb stuttgart_1 heidenheim_20251005,soccer_germany_bundesliga,2025-10-05 09:30,vfb stuttgart,1 heidenheim,betfair_ex_uk,match_winner,away,7.80,0.3353,0.1280,162.02,1.6155,1187.83
+bayern munich_borussia dortmund_20251018,soccer_germany_bundesliga,2025-10-18 12:30,bayern munich,borussia dortmund,unibet_nl,moneyline,away,7.50,0.3400,0.1288,164.00,1.5500,1192.31
+bayern munich_borussia dortmund_20251018,soccer_germany_bundesliga,2025-10-18 12:30,bayern munich,borussia dortmund,unibet_nl,moneyline,away,7.50,0.3400,0.1288,164.00,1.5500,1192.31
+bayern munich_borussia dortmund_20251018,soccer_germany_bundesliga,2025-10-18 12:30,bayern munich,borussia dortmund,unibet_nl,match_winner,away,7.50,0.3353,0.1288,160.36,1.5149,1165.27
+inter milan_cremonese_20251004,soccer_italy_serie_a,2025-10-04 12:00,inter milan,cremonese,betfair_ex_eu,moneyline,draw,7.60,0.3300,0.1307,152.51,1.5080,1142.42
+inter milan_cremonese_20251004,soccer_italy_serie_a,2025-10-04 12:00,inter milan,cremonese,betfair_ex_eu,moneyline,draw,7.60,0.3300,0.1307,152.51,1.5080,1142.42
+arsenal_atlético madrid_20251021,soccer_uefa_champs_league,2025-10-21 15:00,arsenal,atlético madrid,fanduel,match_winner,away,6.50,0.3831,0.1472,160.17,1.4900,1354.51
+angers_as monaco_20251018,soccer_france_ligue_one,2025-10-18 13:00,angers,as monaco,unibet_it,match_winner,home,6.40,0.3843,0.1489,158.10,1.4597,1351.59
+liverpool_man_20251019,soccer_epl,2025-10-19 11:30,liverpool,man,betfair_ex_eu,moneyline,away,7.20,0.3400,0.1387,145.15,1.4480,1167.74
+liverpool_man_20251019,soccer_epl,2025-10-19 11:30,liverpool,man,betfair_ex_eu,moneyline,away,7.20,0.3400,0.1387,145.15,1.4480,1167.74
+eintracht frankfurt_bayern munich_20251004,soccer_germany_bundesliga,2025-10-04 12:30,eintracht frankfurt,bayern munich,smarkets,moneyline,home,7.40,0.3300,0.1336,147.08,1.4420,1126.56
+eintracht frankfurt_bayern munich_20251004,soccer_germany_bundesliga,2025-10-04 12:30,eintracht frankfurt,bayern munich,smarkets,moneyline,home,7.40,0.3300,0.1336,147.08,1.4420,1126.56
+arsenal_west ham_20251004,soccer_epl,2025-10-04 10:00,arsenal,west ham,betfair_ex_uk,moneyline,draw,7.40,0.3300,0.1344,145.49,1.4420,1126.56
+arsenal_west ham_20251004,soccer_epl,2025-10-04 10:00,arsenal,west ham,betfair_ex_uk,moneyline,draw,7.40,0.3300,0.1344,145.49,1.4420,1126.56
+real madrid_villarreal_20251004,soccer_spain_la_liga,2025-10-04 15:00,real madrid,villarreal,matchbook,moneyline,away,7.00,0.3400,0.1418,139.72,1.3800,1150.00
+real madrid_villarreal_20251004,soccer_spain_la_liga,2025-10-04 15:00,real madrid,villarreal,matchbook,moneyline,away,7.00,0.3400,0.1418,139.72,1.3800,1150.00
+athletic bilbao_mallorca_20251004,soccer_spain_la_liga,2025-10-04 12:30,athletic bilbao,mallorca,matchbook,moneyline,away,7.00,0.3400,0.1427,138.30,1.3800,1150.00
+athletic bilbao_mallorca_20251004,soccer_spain_la_liga,2025-10-04 12:30,athletic bilbao,mallorca,matchbook,moneyline,away,7.00,0.3400,0.1427,138.30,1.3800,1150.00
+real madrid_villarreal_20251004,soccer_spain_la_liga,2025-10-04 15:00,real madrid,villarreal,matchbook,match_winner,away,7.00,0.3353,0.1418,136.41,1.3472,1122.67
+athletic bilbao_mallorca_20251004,soccer_spain_la_liga,2025-10-04 12:30,athletic bilbao,mallorca,matchbook,match_winner,away,7.00,0.3353,0.1427,135.01,1.3472,1122.67
+getafe_real madrid_20251019,soccer_spain_la_liga,2025-10-19 15:00,getafe,real madrid,leovegas,moneyline,home,7.00,0.3300,0.1328,148.42,1.3100,1091.67
+getafe_real madrid_20251019,soccer_spain_la_liga,2025-10-19 15:00,getafe,real madrid,leovegas,moneyline,home,7.00,0.3300,0.1328,148.42,1.3100,1091.67
+bayern munich_club brugge_20251022,soccer_uefa_champs_league,2025-10-22 15:00,bayern munich,club brugge,unibet_nl,moneyline,draw,7.00,0.3300,0.1385,138.33,1.3100,1091.67
+bayern munich_club brugge_20251022,soccer_uefa_champs_league,2025-10-22 15:00,bayern munich,club brugge,unibet_nl,moneyline,draw,7.00,0.3300,0.1385,138.33,1.3100,1091.67
+metz_marseille_20251004,soccer_france_ligue_one,2025-10-04 11:00,metz,marseille,betfair_ex_eu,moneyline,home,7.00,0.3300,0.1416,133.13,1.3100,1091.67
+metz_marseille_20251004,soccer_france_ligue_one,2025-10-04 11:00,metz,marseille,betfair_ex_eu,moneyline,home,7.00,0.3300,0.1416,133.13,1.3100,1091.67
+barcelona_olympiakos piraeus_20251021,soccer_uefa_champs_league,2025-10-21 12:45,barcelona,olympiakos piraeus,betfair_ex_uk,match_winner,draw,8.20,0.2804,0.1185,136.64,1.2989,902.02
+atalanta bc_slavia praha_20251022,soccer_uefa_champs_league,2025-10-22 15:00,atalanta bc,slavia praha,coolbet,moneyline,away,6.60,0.3400,0.1466,131.99,1.2440,1110.71
+atalanta bc_slavia praha_20251022,soccer_uefa_champs_league,2025-10-22 15:00,atalanta bc,slavia praha,coolbet,moneyline,away,6.60,0.3400,0.1466,131.99,1.2440,1110.71
+aston villa_burnley_20251005,soccer_epl,2025-10-05 09:00,aston villa,burnley,smarkets,moneyline,away,6.60,0.3400,0.1493,127.77,1.2440,1110.71
+aston villa_burnley_20251005,soccer_epl,2025-10-05 09:00,aston villa,burnley,smarkets,moneyline,away,6.60,0.3400,0.1493,127.77,1.2440,1110.71
+torino_napoli_20251018,soccer_italy_serie_a,2025-10-18 12:00,torino,napoli,tipico_de,match_winner,home,5.80,0.3843,0.1627,136.28,1.2291,1280.34
+atalanta bc_slavia praha_20251022,soccer_uefa_champs_league,2025-10-22 15:00,atalanta bc,slavia praha,coolbet,match_winner,away,6.60,0.3353,0.1466,128.79,1.2131,1083.10
+aston villa_burnley_20251005,soccer_epl,2025-10-05 09:00,aston villa,burnley,smarkets,match_winner,away,6.60,0.3353,0.1493,124.63,1.2131,1083.10
+paris saint germain_strasbourg_20251017,soccer_france_ligue_one,2025-10-17 14:45,paris saint germain,strasbourg,tipico_de,moneyline,draw,6.70,0.3300,0.1389,137.50,1.2110,1062.28
+paris saint germain_strasbourg_20251017,soccer_france_ligue_one,2025-10-17 14:45,paris saint germain,strasbourg,tipico_de,moneyline,draw,6.70,0.3300,0.1389,137.50,1.2110,1062.28
+ac milan_fiorentina_20251019,soccer_italy_serie_a,2025-10-19 14:45,ac milan,fiorentina,fanduel,moneyline,away,6.50,0.3400,0.1433,137.23,1.2100,1100.00
+ac milan_fiorentina_20251019,soccer_italy_serie_a,2025-10-19 14:45,ac milan,fiorentina,fanduel,moneyline,away,6.50,0.3400,0.1433,137.23,1.2100,1100.00
+arsenal_atlético madrid_20251021,soccer_uefa_champs_league,2025-10-21 15:00,arsenal,atlético madrid,fanduel,moneyline,away,6.50,0.3400,0.1472,130.92,1.2100,1100.00
+arsenal_atlético madrid_20251021,soccer_uefa_champs_league,2025-10-21 15:00,arsenal,atlético madrid,fanduel,moneyline,away,6.50,0.3400,0.1472,130.92,1.2100,1100.00
+real madrid_juventus_20251022,soccer_uefa_champs_league,2025-10-22 15:00,real madrid,juventus,coolbet,moneyline,away,6.50,0.3400,0.1488,128.51,1.2100,1100.00
+real madrid_juventus_20251022,soccer_uefa_champs_league,2025-10-22 15:00,real madrid,juventus,coolbet,moneyline,away,6.50,0.3400,0.1488,128.51,1.2100,1100.00
+ac milan_fiorentina_20251019,soccer_italy_serie_a,2025-10-19 14:45,ac milan,fiorentina,fanduel,match_winner,away,6.50,0.3353,0.1433,133.96,1.1795,1072.31
+real madrid_juventus_20251022,soccer_uefa_champs_league,2025-10-22 15:00,real madrid,juventus,coolbet,match_winner,away,6.50,0.3353,0.1488,125.36,1.1795,1072.31
+chelsea_ajax_20251022,soccer_uefa_champs_league,2025-10-22 15:00,chelsea,ajax,suprabets,moneyline,draw,6.60,0.3300,0.1484,122.43,1.1780,1051.79
+chelsea_ajax_20251022,soccer_uefa_champs_league,2025-10-22 15:00,chelsea,ajax,suprabets,moneyline,draw,6.60,0.3300,0.1484,122.43,1.1780,1051.79
+rb leipzig_hamburger sv_20251018,soccer_germany_bundesliga,2025-10-18 09:30,rb leipzig,hamburger sv,betsson,moneyline,away,6.40,0.3400,0.1475,130.58,1.1760,1088.89
+rb leipzig_hamburger sv_20251018,soccer_germany_bundesliga,2025-10-18 09:30,rb leipzig,hamburger sv,betsson,moneyline,away,6.40,0.3400,0.1475,130.58,1.1760,1088.89
+rb leipzig_hamburger sv_20251018,soccer_germany_bundesliga,2025-10-18 09:30,rb leipzig,hamburger sv,betsson,match_winner,away,6.40,0.3353,0.1475,127.40,1.1460,1061.12
+inter milan_cremonese_20251004,soccer_italy_serie_a,2025-10-04 12:00,inter milan,cremonese,betfair_ex_eu,match_winner,draw,7.60,0.2804,0.1307,114.52,1.1307,856.58
+angers_as monaco_20251018,soccer_france_ligue_one,2025-10-18 13:00,angers,as monaco,unibet_it,moneyline,home,6.40,0.3300,0.1489,121.62,1.1120,1029.63
+angers_as monaco_20251018,soccer_france_ligue_one,2025-10-18 13:00,angers,as monaco,unibet_it,moneyline,home,6.40,0.3300,0.1489,121.62,1.1120,1029.63
+newcastle_nottingham forest_20251005,soccer_epl,2025-10-05 09:00,newcastle,nottingham forest,betfair_ex_eu,moneyline,away,6.20,0.3400,0.1594,113.24,1.1080,1065.38
+newcastle_nottingham forest_20251005,soccer_epl,2025-10-05 09:00,newcastle,nottingham forest,betfair_ex_eu,moneyline,away,6.20,0.3400,0.1594,113.24,1.1080,1065.38
+bologna_pisa_20251005,soccer_italy_serie_a,2025-10-05 09:00,bologna,pisa,smarkets,moneyline,away,6.20,0.3400,0.1597,112.90,1.1080,1065.38
+bologna_pisa_20251005,soccer_italy_serie_a,2025-10-05 09:00,bologna,pisa,smarkets,moneyline,away,6.20,0.3400,0.1597,112.90,1.1080,1065.38
+arsenal_west ham_20251004,soccer_epl,2025-10-04 10:00,arsenal,west ham,betfair_ex_uk,match_winner,draw,7.40,0.2832,0.1344,110.70,1.0959,856.21
+newcastle_nottingham forest_20251005,soccer_epl,2025-10-05 09:00,newcastle,nottingham forest,betfair_ex_eu,match_winner,away,6.20,0.3353,0.1594,110.30,1.0789,1037.45
+bologna_pisa_20251005,soccer_italy_serie_a,2025-10-05 09:00,bologna,pisa,smarkets,match_winner,away,6.20,0.3353,0.1597,109.97,1.0789,1037.45
+sevilla_barcelona_20251005,soccer_spain_la_liga,2025-10-05 10:15,sevilla,barcelona,smarkets,match_winner,home,5.40,0.3843,0.1825,110.58,1.0754,1222.03
+man_sunderland_20251004,soccer_epl,2025-10-04 10:00,man,sunderland,bovada,moneyline,away,6.00,0.3400,0.1576,115.75,1.0400,1040.00
+man_sunderland_20251004,soccer_epl,2025-10-04 10:00,man,sunderland,bovada,moneyline,away,6.00,0.3400,0.1576,115.75,1.0400,1040.00
+man_sunderland_20251004,soccer_epl,2025-10-04 10:00,man,sunderland,bovada,match_winner,away,6.00,0.3353,0.1576,112.77,1.0119,1011.89
+brentford_man_20251005,soccer_epl,2025-10-05 11:30,brentford,man,betfair_ex_eu,match_winner,home,5.20,0.3843,0.1907,101.55,0.9985,1188.72
+marseille_le havre_20251018,soccer_france_ligue_one,2025-10-18 15:05,marseille,le havre,tipico_de,moneyline,draw,6.00,0.3300,0.1558,111.83,0.9800,980.00
+marseille_le havre_20251018,soccer_france_ligue_one,2025-10-18 15:05,marseille,le havre,tipico_de,moneyline,draw,6.00,0.3300,0.1558,111.83,0.9800,980.00
+bayern munich_borussia dortmund_20251018,soccer_germany_bundesliga,2025-10-18 12:30,bayern munich,borussia dortmund,unibet_nl,moneyline,draw,6.00,0.3300,0.1610,104.99,0.9800,980.00
+bayern munich_borussia dortmund_20251018,soccer_germany_bundesliga,2025-10-18 12:30,bayern munich,borussia dortmund,unibet_nl,moneyline,draw,6.00,0.3300,0.1610,104.99,0.9800,980.00
+eintracht frankfurt_bayern munich_20251004,soccer_germany_bundesliga,2025-10-04 12:30,eintracht frankfurt,bayern munich,suprabets,moneyline,draw,6.00,0.3300,0.1644,100.72,0.9800,980.00
+eintracht frankfurt_bayern munich_20251004,soccer_germany_bundesliga,2025-10-04 12:30,eintracht frankfurt,bayern munich,suprabets,moneyline,draw,6.00,0.3300,0.1644,100.72,0.9800,980.00
+eintracht frankfurt_liverpool_20251022,soccer_uefa_champs_league,2025-10-22 15:00,eintracht frankfurt,liverpool,suprabets,match_winner,home,5.20,0.3800,0.1889,101.13,0.9759,1161.76
+bayern munich_club brugge_20251022,soccer_uefa_champs_league,2025-10-22 15:00,bayern munich,club brugge,unibet_nl,match_winner,draw,7.00,0.2804,0.1385,102.48,0.9625,802.07
+strasbourg_angers_20251005,soccer_france_ligue_one,2025-10-05 11:15,strasbourg,angers,matchbook,moneyline,away,5.70,0.3400,0.1737,95.74,0.9380,997.87
+strasbourg_angers_20251005,soccer_france_ligue_one,2025-10-05 11:15,strasbourg,angers,matchbook,moneyline,away,5.70,0.3400,0.1737,95.74,0.9380,997.87
+villarreal_man_20251021,soccer_uefa_champs_league,2025-10-21 15:00,villarreal,man,unibet_se,match_winner,home,5.00,0.3843,0.1941,98.03,0.9217,1152.07
+torino_napoli_20251018,soccer_italy_serie_a,2025-10-18 12:00,torino,napoli,tipico_de,moneyline,home,5.80,0.3300,0.1627,102.88,0.9140,952.08
+torino_napoli_20251018,soccer_italy_serie_a,2025-10-18 12:00,torino,napoli,tipico_de,moneyline,home,5.80,0.3300,0.1627,102.88,0.9140,952.08
+strasbourg_angers_20251005,soccer_france_ligue_one,2025-10-05 11:15,strasbourg,angers,matchbook,match_winner,away,5.70,0.3353,0.1737,93.04,0.9113,969.46
+athletic bilbao_qarabağ fk_20251022,soccer_uefa_champs_league,2025-10-22 12:45,athletic bilbao,qarabağ fk,onexbet,moneyline,draw,5.77,0.3300,0.1707,93.35,0.9041,947.69
+athletic bilbao_qarabağ fk_20251022,soccer_uefa_champs_league,2025-10-22 12:45,athletic bilbao,qarabağ fk,onexbet,moneyline,draw,5.77,0.3300,0.1707,93.35,0.9041,947.69
+bayer leverkusen_paris saint germain_20251021,soccer_uefa_champs_league,2025-10-21 15:00,bayer leverkusen,paris saint germain,suprabets,match_winner,home,4.90,0.3843,0.2002,92.01,0.8832,1132.34
+paris saint germain_strasbourg_20251017,soccer_france_ligue_one,2025-10-17 14:45,paris saint germain,strasbourg,tipico_de,match_winner,draw,6.70,0.2804,0.1389,101.77,0.8784,770.50
+lille_paris saint germain_20251005,soccer_france_ligue_one,2025-10-05 14:45,lille,paris saint germain,betfair_ex_eu,match_winner,home,4.80,0.3843,0.2061,86.48,0.8448,1111.57
+celta vigo_atlético madrid_20251005,soccer_spain_la_liga,2025-10-05 15:00,celta vigo,atlético madrid,betfair_ex_eu,match_winner,home,4.80,0.3843,0.2074,85.35,0.8448,1111.57
+toulouse_metz_20251019,soccer_france_ligue_one,2025-10-19 11:15,toulouse,metz,onexbet,moneyline,away,5.40,0.3400,0.1823,86.46,0.8360,950.00
+toulouse_metz_20251019,soccer_france_ligue_one,2025-10-19 11:15,toulouse,metz,onexbet,moneyline,away,5.40,0.3400,0.1823,86.46,0.8360,950.00
+union saintgilloise_inter milan_20251021,soccer_uefa_champs_league,2025-10-21 15:00,union saintgilloise,inter milan,coolbet,match_winner,home,4.75,0.3843,0.2040,88.39,0.8256,1100.77
+toulouse_metz_20251019,soccer_france_ligue_one,2025-10-19 11:15,toulouse,metz,onexbet,match_winner,away,5.40,0.3353,0.1823,83.89,0.8107,921.25
+bayer leverkusen_union berlin_20251004,soccer_germany_bundesliga,2025-10-04 09:30,bayer leverkusen,union berlin,smarkets,moneyline,away,5.30,0.3400,0.1868,82.02,0.8020,932.56
+bayer leverkusen_union berlin_20251004,soccer_germany_bundesliga,2025-10-04 09:30,bayer leverkusen,union berlin,smarkets,moneyline,away,5.30,0.3400,0.1868,82.02,0.8020,932.56
+galatasaray_bodøglimt_20251022,soccer_uefa_champs_league,2025-10-22 12:45,galatasaray,bodøglimt,onexbet,moneyline,away,5.25,0.3400,0.1878,81.07,0.7850,923.53
+galatasaray_bodøglimt_20251022,soccer_uefa_champs_league,2025-10-22 12:45,galatasaray,bodøglimt,onexbet,moneyline,away,5.25,0.3400,0.1878,81.07,0.7850,923.53
+fulham_arsenal_20251018,soccer_epl,2025-10-18 12:30,fulham,arsenal,fanduel,moneyline,home,5.40,0.3300,0.1778,85.55,0.7820,888.64
+fulham_arsenal_20251018,soccer_epl,2025-10-18 12:30,fulham,arsenal,fanduel,moneyline,home,5.40,0.3300,0.1778,85.55,0.7820,888.64
+real madrid_villarreal_20251004,soccer_spain_la_liga,2025-10-04 15:00,real madrid,villarreal,unibet_se,moneyline,draw,5.40,0.3300,0.1788,84.59,0.7820,888.64
+real madrid_villarreal_20251004,soccer_spain_la_liga,2025-10-04 15:00,real madrid,villarreal,unibet_se,moneyline,draw,5.40,0.3300,0.1788,84.59,0.7820,888.64
+sevilla_barcelona_20251005,soccer_spain_la_liga,2025-10-05 10:15,sevilla,barcelona,smarkets,moneyline,home,5.40,0.3300,0.1825,80.81,0.7820,888.64
+sevilla_barcelona_20251005,soccer_spain_la_liga,2025-10-05 10:15,sevilla,barcelona,smarkets,moneyline,home,5.40,0.3300,0.1825,80.81,0.7820,888.64
+vfb stuttgart_1 heidenheim_20251005,soccer_germany_bundesliga,2025-10-05 09:30,vfb stuttgart,1 heidenheim,suprabets,moneyline,draw,5.40,0.3300,0.1828,80.51,0.7820,888.64
+vfb stuttgart_1 heidenheim_20251005,soccer_germany_bundesliga,2025-10-05 09:30,vfb stuttgart,1 heidenheim,suprabets,moneyline,draw,5.40,0.3300,0.1828,80.51,0.7820,888.64
+bayer leverkusen_union berlin_20251004,soccer_germany_bundesliga,2025-10-04 09:30,bayer leverkusen,union berlin,smarkets,match_winner,away,5.30,0.3353,0.1868,79.51,0.7772,903.68
+lazio_torino_20251004,soccer_italy_serie_a,2025-10-04 09:00,lazio,torino,smarkets,moneyline,away,5.20,0.3400,0.1901,78.86,0.7680,914.29
+lazio_torino_20251004,soccer_italy_serie_a,2025-10-04 09:00,lazio,torino,smarkets,moneyline,away,5.20,0.3400,0.1901,78.86,0.7680,914.29
+galatasaray_bodøglimt_20251022,soccer_uefa_champs_league,2025-10-22 12:45,galatasaray,bodøglimt,onexbet,match_winner,away,5.25,0.3353,0.1878,78.58,0.7604,894.59
+rb leipzig_hamburger sv_20251018,soccer_germany_bundesliga,2025-10-18 09:30,rb leipzig,hamburger sv,tipico_de,moneyline,draw,5.30,0.3300,0.1790,84.38,0.7490,870.93
+rb leipzig_hamburger sv_20251018,soccer_germany_bundesliga,2025-10-18 09:30,rb leipzig,hamburger sv,tipico_de,moneyline,draw,5.30,0.3300,0.1790,84.38,0.7490,870.93
+lazio_torino_20251004,soccer_italy_serie_a,2025-10-04 09:00,lazio,torino,smarkets,match_winner,away,5.20,0.3353,0.1901,76.39,0.7436,885.28
+chelsea_ajax_20251022,soccer_uefa_champs_league,2025-10-22 15:00,chelsea,ajax,suprabets,match_winner,draw,6.60,0.2600,0.1484,75.28,0.7163,639.58
+atalanta bc_slavia praha_20251022,soccer_uefa_champs_league,2025-10-22 15:00,atalanta bc,slavia praha,suprabets,moneyline,draw,5.20,0.3300,0.1875,76.00,0.7160,852.38
+atalanta bc_slavia praha_20251022,soccer_uefa_champs_league,2025-10-22 15:00,atalanta bc,slavia praha,suprabets,moneyline,draw,5.20,0.3300,0.1875,76.00,0.7160,852.38
+eintracht frankfurt_liverpool_20251022,soccer_uefa_champs_league,2025-10-22 15:00,eintracht frankfurt,liverpool,suprabets,moneyline,home,5.20,0.3300,0.1889,74.68,0.7160,852.38
+eintracht frankfurt_liverpool_20251022,soccer_uefa_champs_league,2025-10-22 15:00,eintracht frankfurt,liverpool,suprabets,moneyline,home,5.20,0.3300,0.1889,74.68,0.7160,852.38
+brentford_man_20251005,soccer_epl,2025-10-05 11:30,brentford,man,betfair_ex_eu,moneyline,home,5.20,0.3300,0.1907,73.06,0.7160,852.38
+brentford_man_20251005,soccer_epl,2025-10-05 11:30,brentford,man,betfair_ex_eu,moneyline,home,5.20,0.3300,0.1907,73.06,0.7160,852.38
+newcastle_benfica_20251021,soccer_uefa_champs_league,2025-10-21 15:00,newcastle,benfica,coolbet,moneyline,away,5.00,0.3400,0.1939,75.34,0.7000,875.00
+newcastle_benfica_20251021,soccer_uefa_champs_league,2025-10-21 15:00,newcastle,benfica,coolbet,moneyline,away,5.00,0.3400,0.1939,75.34,0.7000,875.00
+rennes_auxerre_20251019,soccer_france_ligue_one,2025-10-19 11:15,rennes,auxerre,onexbet,moneyline,away,5.00,0.3400,0.1973,72.31,0.7000,875.00
+rennes_auxerre_20251019,soccer_france_ligue_one,2025-10-19 11:15,rennes,auxerre,onexbet,moneyline,away,5.00,0.3400,0.1973,72.31,0.7000,875.00
+sevilla_barcelona_20251005,soccer_spain_la_liga,2025-10-05 10:15,sevilla,barcelona,unibet_se,moneyline,draw,5.10,0.3300,0.1898,73.88,0.6830,832.93
+sevilla_barcelona_20251005,soccer_spain_la_liga,2025-10-05 10:15,sevilla,barcelona,unibet_se,moneyline,draw,5.10,0.3300,0.1898,73.88,0.6830,832.93
+marseille_le havre_20251018,soccer_france_ligue_one,2025-10-18 15:05,marseille,le havre,tipico_de,match_winner,draw,6.00,0.2804,0.1558,79.97,0.6821,682.12
+bayern munich_borussia dortmund_20251018,soccer_germany_bundesliga,2025-10-18 12:30,bayern munich,borussia dortmund,unibet_nl,match_winner,draw,6.00,0.2804,0.1610,74.15,0.6821,682.12
+eintracht frankfurt_bayern munich_20251004,soccer_germany_bundesliga,2025-10-04 12:30,eintracht frankfurt,bayern munich,suprabets,match_winner,draw,6.00,0.2804,0.1644,70.53,0.6821,682.12
+newcastle_benfica_20251021,soccer_uefa_champs_league,2025-10-21 15:00,newcastle,benfica,coolbet,match_winner,away,5.00,0.3353,0.1939,72.92,0.6766,845.71
+rennes_auxerre_20251019,soccer_france_ligue_one,2025-10-19 11:15,rennes,auxerre,onexbet,match_winner,away,5.00,0.3353,0.1973,69.93,0.6766,845.71
+man_everton_20251018,soccer_epl,2025-10-18 10:00,man,everton,tipico_de,moneyline,draw,5.00,0.3300,0.1884,75.12,0.6500,812.50
+man_everton_20251018,soccer_epl,2025-10-18 10:00,man,everton,tipico_de,moneyline,draw,5.00,0.3300,0.1884,75.12,0.6500,812.50
+villarreal_man_20251021,soccer_uefa_champs_league,2025-10-21 15:00,villarreal,man,unibet_se,moneyline,home,5.00,0.3300,0.1941,70.04,0.6500,812.50
+villarreal_man_20251021,soccer_uefa_champs_league,2025-10-21 15:00,villarreal,man,unibet_se,moneyline,home,5.00,0.3300,0.1941,70.04,0.6500,812.50
+liverpool_man_20251019,soccer_epl,2025-10-19 11:30,liverpool,man,onexbet,moneyline,draw,4.96,0.3300,0.1984,66.34,0.6368,804.04
+liverpool_man_20251019,soccer_epl,2025-10-19 11:30,liverpool,man,onexbet,moneyline,draw,4.96,0.3300,0.1984,66.34,0.6368,804.04
+athletic bilbao_qarabağ fk_20251022,soccer_uefa_champs_league,2025-10-22 12:45,athletic bilbao,qarabağ fk,onexbet,match_winner,draw,5.77,0.2804,0.1707,64.26,0.6176,647.42
+borussia dortmund_rb leipzig_20251004,soccer_germany_bundesliga,2025-10-04 09:30,borussia dortmund,rb leipzig,unibet_nl,moneyline,draw,4.90,0.3300,0.1983,66.42,0.6170,791.03
+borussia dortmund_rb leipzig_20251004,soccer_germany_bundesliga,2025-10-04 09:30,borussia dortmund,rb leipzig,unibet_nl,moneyline,draw,4.90,0.3300,0.1983,66.42,0.6170,791.03
+bayer leverkusen_paris saint germain_20251021,soccer_uefa_champs_league,2025-10-21 15:00,bayer leverkusen,paris saint germain,suprabets,moneyline,home,4.90,0.3300,0.2002,64.87,0.6170,791.03
+bayer leverkusen_paris saint germain_20251021,soccer_uefa_champs_league,2025-10-21 15:00,bayer leverkusen,paris saint germain,suprabets,moneyline,home,4.90,0.3300,0.2002,64.87,0.6170,791.03
+atlético madrid_ca osasuna_20251018,soccer_spain_la_liga,2025-10-18 15:00,atlético madrid,ca osasuna,tipico_de,moneyline,draw,4.80,0.3300,0.1959,68.42,0.5840,768.42
+atlético madrid_ca osasuna_20251018,soccer_spain_la_liga,2025-10-18 15:00,atlético madrid,ca osasuna,tipico_de,moneyline,draw,4.80,0.3300,0.1959,68.42,0.5840,768.42
+real madrid_juventus_20251022,soccer_uefa_champs_league,2025-10-22 15:00,real madrid,juventus,suprabets,moneyline,draw,4.80,0.3300,0.2036,62.08,0.5840,768.42
+real madrid_juventus_20251022,soccer_uefa_champs_league,2025-10-22 15:00,real madrid,juventus,suprabets,moneyline,draw,4.80,0.3300,0.2036,62.08,0.5840,768.42
+eintracht frankfurt_liverpool_20251022,soccer_uefa_champs_league,2025-10-22 15:00,eintracht frankfurt,liverpool,suprabets,moneyline,draw,4.80,0.3300,0.2047,61.24,0.5840,768.42
+eintracht frankfurt_liverpool_20251022,soccer_uefa_champs_league,2025-10-22 15:00,eintracht frankfurt,liverpool,suprabets,moneyline,draw,4.80,0.3300,0.2047,61.24,0.5840,768.42
+metz_marseille_20251004,soccer_france_ligue_one,2025-10-04 11:00,metz,marseille,suprabets,moneyline,draw,4.80,0.3300,0.2056,60.53,0.5840,768.42
+metz_marseille_20251004,soccer_france_ligue_one,2025-10-04 11:00,metz,marseille,suprabets,moneyline,draw,4.80,0.3300,0.2056,60.53,0.5840,768.42
+lille_paris saint germain_20251005,soccer_france_ligue_one,2025-10-05 14:45,lille,paris saint germain,betfair_ex_eu,moneyline,home,4.80,0.3300,0.2061,60.11,0.5840,768.42
+lille_paris saint germain_20251005,soccer_france_ligue_one,2025-10-05 14:45,lille,paris saint germain,betfair_ex_eu,moneyline,home,4.80,0.3300,0.2061,60.11,0.5840,768.42
+celta vigo_atlético madrid_20251005,soccer_spain_la_liga,2025-10-05 15:00,celta vigo,atlético madrid,betfair_ex_eu,moneyline,home,4.80,0.3300,0.2074,59.15,0.5840,768.42
+celta vigo_atlético madrid_20251005,soccer_spain_la_liga,2025-10-05 15:00,celta vigo,atlético madrid,betfair_ex_eu,moneyline,home,4.80,0.3300,0.2074,59.15,0.5840,768.42
+union saintgilloise_inter milan_20251021,soccer_uefa_champs_league,2025-10-21 15:00,union saintgilloise,inter milan,coolbet,moneyline,home,4.75,0.3300,0.2040,61.76,0.5675,756.67
+union saintgilloise_inter milan_20251021,soccer_uefa_champs_league,2025-10-21 15:00,union saintgilloise,inter milan,coolbet,moneyline,home,4.75,0.3300,0.2040,61.76,0.5675,756.67
+villarreal_real betis_20251018,soccer_spain_la_liga,2025-10-18 12:30,villarreal,real betis,unibet_nl,moneyline,away,4.60,0.3400,0.2102,61.73,0.5640,783.33
+villarreal_real betis_20251018,soccer_spain_la_liga,2025-10-18 12:30,villarreal,real betis,unibet_nl,moneyline,away,4.60,0.3400,0.2102,61.73,0.5640,783.33
+borussia dortmund_rb leipzig_20251004,soccer_germany_bundesliga,2025-10-04 09:30,borussia dortmund,rb leipzig,matchbook,moneyline,away,4.60,0.3400,0.2173,56.47,0.5640,783.33
+borussia dortmund_rb leipzig_20251004,soccer_germany_bundesliga,2025-10-04 09:30,borussia dortmund,rb leipzig,matchbook,moneyline,away,4.60,0.3400,0.2173,56.47,0.5640,783.33
+angers_as monaco_20251018,soccer_france_ligue_one,2025-10-18 13:00,angers,as monaco,unibet_nl,moneyline,draw,4.70,0.3300,0.2054,60.63,0.5510,744.59
+angers_as monaco_20251018,soccer_france_ligue_one,2025-10-18 13:00,angers,as monaco,unibet_nl,moneyline,draw,4.70,0.3300,0.2054,60.63,0.5510,744.59
+brentford_man_20251005,soccer_epl,2025-10-05 11:30,brentford,man,unibet_nl,moneyline,draw,4.70,0.3300,0.2089,57.98,0.5510,744.59
+brentford_man_20251005,soccer_epl,2025-10-05 11:30,brentford,man,unibet_nl,moneyline,draw,4.70,0.3300,0.2089,57.98,0.5510,744.59
+villarreal_real betis_20251018,soccer_spain_la_liga,2025-10-18 12:30,villarreal,real betis,unibet_nl,match_winner,away,4.60,0.3353,0.2102,59.51,0.5424,753.40
+borussia dortmund_rb leipzig_20251004,soccer_germany_bundesliga,2025-10-04 09:30,borussia dortmund,rb leipzig,matchbook,match_winner,away,4.60,0.3353,0.2173,54.31,0.5424,753.40
+sevilla_mallorca_20251018,soccer_spain_la_liga,2025-10-18 08:00,sevilla,mallorca,unibet_se,moneyline,away,4.50,0.3400,0.2151,58.04,0.5300,757.14
+sevilla_mallorca_20251018,soccer_spain_la_liga,2025-10-18 08:00,sevilla,mallorca,unibet_se,moneyline,away,4.50,0.3400,0.2151,58.04,0.5300,757.14
+getafe_real madrid_20251019,soccer_spain_la_liga,2025-10-19 15:00,getafe,real madrid,pinnacle,moneyline,draw,4.61,0.3300,0.2049,61.07,0.5213,722.02
+getafe_real madrid_20251019,soccer_spain_la_liga,2025-10-19 15:00,getafe,real madrid,pinnacle,moneyline,draw,4.61,0.3300,0.2049,61.07,0.5213,722.02
+galatasaray_bodøglimt_20251022,soccer_uefa_champs_league,2025-10-22 12:45,galatasaray,bodøglimt,unibet_nl,moneyline,draw,4.60,0.3300,0.2114,56.07,0.5180,719.44
+galatasaray_bodøglimt_20251022,soccer_uefa_champs_league,2025-10-22 12:45,galatasaray,bodøglimt,unibet_nl,moneyline,draw,4.60,0.3300,0.2114,56.07,0.5180,719.44
+newcastle_nottingham forest_20251005,soccer_epl,2025-10-05 09:00,newcastle,nottingham forest,betfair_ex_eu,moneyline,draw,4.60,0.3300,0.2149,53.56,0.5180,719.44
+newcastle_nottingham forest_20251005,soccer_epl,2025-10-05 09:00,newcastle,nottingham forest,betfair_ex_eu,moneyline,draw,4.60,0.3300,0.2149,53.56,0.5180,719.44
+man_sunderland_20251004,soccer_epl,2025-10-04 10:00,man,sunderland,betfair_ex_eu,moneyline,draw,4.60,0.3300,0.2157,53.01,0.5180,719.44
+man_sunderland_20251004,soccer_epl,2025-10-04 10:00,man,sunderland,betfair_ex_eu,moneyline,draw,4.60,0.3300,0.2157,53.01,0.5180,719.44
+real madrid_villarreal_20251004,soccer_spain_la_liga,2025-10-04 15:00,real madrid,villarreal,unibet_se,match_winner,draw,5.40,0.2804,0.1788,56.82,0.5139,583.99
+vfb stuttgart_1 heidenheim_20251005,soccer_germany_bundesliga,2025-10-05 09:30,vfb stuttgart,1 heidenheim,suprabets,match_winner,draw,5.40,0.2804,0.1828,53.36,0.5139,583.99
+sevilla_mallorca_20251018,soccer_spain_la_liga,2025-10-18 08:00,sevilla,mallorca,unibet_se,match_winner,away,4.50,0.3353,0.2151,55.86,0.5089,727.02
+parma_lecce_20251004,soccer_italy_serie_a,2025-10-04 09:00,parma,lecce,betfair_ex_eu,moneyline,away,4.40,0.3400,0.2247,51.33,0.4960,729.41
+parma_lecce_20251004,soccer_italy_serie_a,2025-10-04 09:00,parma,lecce,betfair_ex_eu,moneyline,away,4.40,0.3400,0.2247,51.33,0.4960,729.41
+rb leipzig_hamburger sv_20251018,soccer_germany_bundesliga,2025-10-18 09:30,rb leipzig,hamburger sv,tipico_de,match_winner,draw,5.30,0.2804,0.1790,56.64,0.4859,564.97
+as monaco_nice_20251005,soccer_france_ligue_one,2025-10-05 11:15,as monaco,nice,lowvig,moneyline,away,4.35,0.3400,0.2222,52.99,0.4790,714.93
+as monaco_nice_20251005,soccer_france_ligue_one,2025-10-05 11:15,as monaco,nice,lowvig,moneyline,away,4.35,0.3400,0.2222,52.99,0.4790,714.93
+parma_lecce_20251004,soccer_italy_serie_a,2025-10-04 09:00,parma,lecce,betfair_ex_eu,match_winner,away,4.40,0.3353,0.2247,49.25,0.4754,699.09
+brest_nantes_20251004,soccer_france_ligue_one,2025-10-04 13:00,brest,nantes,smarkets,moneyline,away,4.30,0.3400,0.2302,47.73,0.4620,700.00
+brest_nantes_20251004,soccer_france_ligue_one,2025-10-04 13:00,brest,nantes,smarkets,moneyline,away,4.30,0.3400,0.2302,47.73,0.4620,700.00
+lyon_toulouse_20251005,soccer_france_ligue_one,2025-10-05 09:00,lyon,toulouse,betfair_ex_eu,moneyline,away,4.30,0.3400,0.2312,47.07,0.4620,700.00
+lyon_toulouse_20251005,soccer_france_ligue_one,2025-10-05 09:00,lyon,toulouse,betfair_ex_eu,moneyline,away,4.30,0.3400,0.2312,47.07,0.4620,700.00
+nantes_lille_20251019,soccer_france_ligue_one,2025-10-19 14:45,nantes,lille,onexbet,match_winner,home,3.80,0.3843,0.2588,48.48,0.4605,822.25
+wolverhampton wanderers_brighton and hove albion_20251005,soccer_epl,2025-10-05 09:00,wolverhampton wanderers,brighton and hove albion,betfair_ex_eu,match_winner,home,3.80,0.3843,0.2618,46.79,0.4605,822.25
+as monaco_nice_20251005,soccer_france_ligue_one,2025-10-05 11:15,as monaco,nice,lowvig,match_winner,away,4.35,0.3353,0.2222,50.88,0.4586,684.50
+atalanta bc_slavia praha_20251022,soccer_uefa_champs_league,2025-10-22 15:00,atalanta bc,slavia praha,suprabets,match_winner,draw,5.20,0.2804,0.1875,49.52,0.4578,545.05
+fc copenhagen_borussia dortmund_20251021,soccer_uefa_champs_league,2025-10-21 15:00,fc copenhagen,borussia dortmund,suprabets,match_winner,home,3.78,0.3843,0.2596,48.04,0.4528,814.34
+bayer leverkusen_paris saint germain_20251021,soccer_uefa_champs_league,2025-10-21 15:00,bayer leverkusen,paris saint germain,suprabets,moneyline,draw,4.40,0.3300,0.2229,48.04,0.4520,664.71
+bayer leverkusen_paris saint germain_20251021,soccer_uefa_champs_league,2025-10-21 15:00,bayer leverkusen,paris saint germain,suprabets,moneyline,draw,4.40,0.3300,0.2229,48.04,0.4520,664.71
+union saintgilloise_inter milan_20251021,soccer_uefa_champs_league,2025-10-21 15:00,union saintgilloise,inter milan,suprabets,moneyline,draw,4.40,0.3300,0.2233,47.77,0.4520,664.71
+union saintgilloise_inter milan_20251021,soccer_uefa_champs_league,2025-10-21 15:00,union saintgilloise,inter milan,suprabets,moneyline,draw,4.40,0.3300,0.2233,47.77,0.4520,664.71
+ac milan_fiorentina_20251019,soccer_italy_serie_a,2025-10-19 14:45,ac milan,fiorentina,onexbet,moneyline,draw,4.40,0.3300,0.2242,47.21,0.4520,664.71
+ac milan_fiorentina_20251019,soccer_italy_serie_a,2025-10-19 14:45,ac milan,fiorentina,onexbet,moneyline,draw,4.40,0.3300,0.2242,47.21,0.4520,664.71
+auxerre_rc lens_20251004,soccer_france_ligue_one,2025-10-04 15:05,auxerre,rc lens,lowvig,match_winner,home,3.77,0.3843,0.2563,49.97,0.4489,810.34
+brest_nantes_20251004,soccer_france_ligue_one,2025-10-04 13:00,brest,nantes,smarkets,match_winner,away,4.30,0.3353,0.2302,45.69,0.4419,669.47
+lyon_toulouse_20251005,soccer_france_ligue_one,2025-10-05 09:00,lyon,toulouse,betfair_ex_eu,match_winner,away,4.30,0.3353,0.2312,45.04,0.4419,669.47
+fulham_arsenal_20251018,soccer_epl,2025-10-18 12:30,fulham,arsenal,betsson,moneyline,draw,4.35,0.3300,0.2210,49.30,0.4355,650.00
+fulham_arsenal_20251018,soccer_epl,2025-10-18 12:30,fulham,arsenal,betsson,moneyline,draw,4.35,0.3300,0.2210,49.30,0.4355,650.00
+sevilla_barcelona_20251005,soccer_spain_la_liga,2025-10-05 10:15,sevilla,barcelona,unibet_se,match_winner,draw,5.10,0.2804,0.1898,47.73,0.4298,524.15
+liverpool_man_20251019,soccer_epl,2025-10-19 11:30,liverpool,man,onexbet,match_winner,draw,4.96,0.2864,0.1984,44.35,0.4204,530.84
+napoli_genoa_20251005,soccer_italy_serie_a,2025-10-05 12:00,napoli,genoa,unibet_se,moneyline,draw,4.30,0.3300,0.2267,45.57,0.4190,634.85
+napoli_genoa_20251005,soccer_italy_serie_a,2025-10-05 12:00,napoli,genoa,unibet_se,moneyline,draw,4.30,0.3300,0.2267,45.57,0.4190,634.85
+newcastle_benfica_20251021,soccer_uefa_champs_league,2025-10-21 15:00,newcastle,benfica,unibet_nl,moneyline,draw,4.30,0.3300,0.2269,45.43,0.4190,634.85
+newcastle_benfica_20251021,soccer_uefa_champs_league,2025-10-21 15:00,newcastle,benfica,unibet_nl,moneyline,draw,4.30,0.3300,0.2269,45.43,0.4190,634.85
+villarreal_man_20251021,soccer_uefa_champs_league,2025-10-21 15:00,villarreal,man,suprabets,moneyline,draw,4.30,0.3300,0.2291,44.02,0.4190,634.85
+villarreal_man_20251021,soccer_uefa_champs_league,2025-10-21 15:00,villarreal,man,suprabets,moneyline,draw,4.30,0.3300,0.2291,44.02,0.4190,634.85
+man_everton_20251018,soccer_epl,2025-10-18 10:00,man,everton,tipico_de,match_winner,draw,5.00,0.2804,0.1884,48.78,0.4018,502.21
+lille_paris saint germain_20251005,soccer_france_ligue_one,2025-10-05 14:45,lille,paris saint germain,casumo,moneyline,draw,4.20,0.3300,0.2266,45.63,0.3860,603.13
+lille_paris saint germain_20251005,soccer_france_ligue_one,2025-10-05 14:45,lille,paris saint germain,casumo,moneyline,draw,4.20,0.3300,0.2266,45.63,0.3860,603.13
+as monaco_nice_20251005,soccer_france_ligue_one,2025-10-05 11:15,as monaco,nice,unibet_nl,moneyline,draw,4.20,0.3300,0.2295,43.80,0.3860,603.13
+as monaco_nice_20251005,soccer_france_ligue_one,2025-10-05 11:15,as monaco,nice,unibet_nl,moneyline,draw,4.20,0.3300,0.2295,43.80,0.3860,603.13
+toulouse_metz_20251019,soccer_france_ligue_one,2025-10-19 11:15,toulouse,metz,leovegas_se,moneyline,draw,4.20,0.3300,0.2305,43.17,0.3860,603.13
+toulouse_metz_20251019,soccer_france_ligue_one,2025-10-19 11:15,toulouse,metz,leovegas_se,moneyline,draw,4.20,0.3300,0.2305,43.17,0.3860,603.13
+bayer leverkusen_union berlin_20251004,soccer_germany_bundesliga,2025-10-04 09:30,bayer leverkusen,union berlin,unibet_nl,moneyline,draw,4.20,0.3300,0.2313,42.68,0.3860,603.13
+bayer leverkusen_union berlin_20251004,soccer_germany_bundesliga,2025-10-04 09:30,bayer leverkusen,union berlin,unibet_nl,moneyline,draw,4.20,0.3300,0.2313,42.68,0.3860,603.13
+arsenal_atlético madrid_20251021,soccer_uefa_champs_league,2025-10-21 15:00,arsenal,atlético madrid,suprabets,moneyline,draw,4.20,0.3300,0.2332,41.52,0.3860,603.13
+arsenal_atlético madrid_20251021,soccer_uefa_champs_league,2025-10-21 15:00,arsenal,atlético madrid,suprabets,moneyline,draw,4.20,0.3300,0.2332,41.52,0.3860,603.13
+borussia dortmund_rb leipzig_20251004,soccer_germany_bundesliga,2025-10-04 09:30,borussia dortmund,rb leipzig,unibet_nl,match_winner,draw,4.90,0.2804,0.1983,41.39,0.3737,479.15
+aston villa_burnley_20251005,soccer_epl,2025-10-05 09:00,aston villa,burnley,onexbet,moneyline,draw,4.13,0.3300,0.2384,38.43,0.3629,579.71
+aston villa_burnley_20251005,soccer_epl,2025-10-05 09:00,aston villa,burnley,onexbet,moneyline,draw,4.13,0.3300,0.2384,38.43,0.3629,579.71
+rennes_auxerre_20251019,soccer_france_ligue_one,2025-10-19 11:15,rennes,auxerre,onexbet,moneyline,draw,4.13,0.3300,0.2389,38.14,0.3629,579.71
+rennes_auxerre_20251019,soccer_france_ligue_one,2025-10-19 11:15,rennes,auxerre,onexbet,moneyline,draw,4.13,0.3300,0.2389,38.14,0.3629,579.71
+celta vigo_atlético madrid_20251005,soccer_spain_la_liga,2025-10-05 15:00,celta vigo,atlético madrid,betfair_ex_eu,moneyline,draw,4.10,0.3300,0.2428,35.94,0.3530,569.35
+celta vigo_atlético madrid_20251005,soccer_spain_la_liga,2025-10-05 15:00,celta vigo,atlético madrid,betfair_ex_eu,moneyline,draw,4.10,0.3300,0.2428,35.94,0.3530,569.35
+genoa_parma_20251019,soccer_italy_serie_a,2025-10-19 09:00,genoa,parma,onexbet,moneyline,away,3.96,0.3400,0.2486,36.77,0.3464,585.14
+genoa_parma_20251019,soccer_italy_serie_a,2025-10-19 09:00,genoa,parma,onexbet,moneyline,away,3.96,0.3400,0.2486,36.77,0.3464,585.14
+atlético madrid_ca osasuna_20251018,soccer_spain_la_liga,2025-10-18 15:00,atlético madrid,ca osasuna,tipico_de,match_winner,draw,4.80,0.2804,0.1959,43.08,0.3457,454.87
+real madrid_juventus_20251022,soccer_uefa_champs_league,2025-10-22 15:00,real madrid,juventus,suprabets,match_winner,draw,4.80,0.2804,0.2036,37.69,0.3457,454.87
+metz_marseille_20251004,soccer_france_ligue_one,2025-10-04 11:00,metz,marseille,suprabets,match_winner,draw,4.80,0.2804,0.2056,36.38,0.3457,454.87
+udinese_cagliari_20251005,soccer_italy_serie_a,2025-10-05 06:30,udinese,cagliari,smarkets,moneyline,away,3.95,0.3400,0.2489,36.59,0.3430,581.36
+udinese_cagliari_20251005,soccer_italy_serie_a,2025-10-05 06:30,udinese,cagliari,smarkets,moneyline,away,3.95,0.3400,0.2489,36.59,0.3430,581.36
+rc lens_paris_20251019,soccer_france_ligue_one,2025-10-19 09:00,rc lens,paris,onexbet,moneyline,away,3.92,0.3400,0.2513,35.31,0.3328,569.86
+rc lens_paris_20251019,soccer_france_ligue_one,2025-10-19 09:00,rc lens,paris,onexbet,moneyline,away,3.92,0.3400,0.2513,35.31,0.3328,569.86
+fulham_arsenal_20251018,soccer_epl,2025-10-18 12:30,fulham,arsenal,betsson,match_winner,draw,4.35,0.3054,0.2210,38.17,0.3285,490.31
+genoa_parma_20251019,soccer_italy_serie_a,2025-10-19 09:00,genoa,parma,onexbet,match_winner,away,3.96,0.3353,0.2486,34.88,0.3278,553.79
+real sociedad_rayo vallecano_20251005,soccer_spain_la_liga,2025-10-05 12:30,real sociedad,rayo vallecano,coolbet,moneyline,away,3.90,0.3400,0.2490,36.57,0.3260,562.07
+real sociedad_rayo vallecano_20251005,soccer_spain_la_liga,2025-10-05 12:30,real sociedad,rayo vallecano,coolbet,moneyline,away,3.90,0.3400,0.2490,36.57,0.3260,562.07
+udinese_cagliari_20251005,soccer_italy_serie_a,2025-10-05 06:30,udinese,cagliari,smarkets,match_winner,away,3.95,0.3353,0.2489,34.71,0.3245,549.98
+villarreal_real betis_20251018,soccer_spain_la_liga,2025-10-18 12:30,villarreal,real betis,tipico_de,moneyline,draw,4.00,0.3300,0.2360,39.86,0.3200,533.33
+villarreal_real betis_20251018,soccer_spain_la_liga,2025-10-18 12:30,villarreal,real betis,tipico_de,moneyline,draw,4.00,0.3300,0.2360,39.86,0.3200,533.33
+strasbourg_angers_20251005,soccer_france_ligue_one,2025-10-05 11:15,strasbourg,angers,onexbet,moneyline,draw,4.00,0.3300,0.2464,33.92,0.3200,533.33
+strasbourg_angers_20251005,soccer_france_ligue_one,2025-10-05 11:15,strasbourg,angers,onexbet,moneyline,draw,4.00,0.3300,0.2464,33.92,0.3200,533.33
+angers_as monaco_20251018,soccer_france_ligue_one,2025-10-18 13:00,angers,as monaco,unibet_nl,match_winner,draw,4.70,0.2804,0.2054,36.47,0.3177,429.28
+brentford_man_20251005,soccer_epl,2025-10-05 11:30,brentford,man,unibet_nl,match_winner,draw,4.70,0.2804,0.2089,34.21,0.3177,429.28
+rc lens_paris_20251019,soccer_france_ligue_one,2025-10-19 09:00,rc lens,paris,onexbet,match_winner,away,3.92,0.3353,0.2513,33.45,0.3144,538.41
+real sociedad_rayo vallecano_20251005,soccer_spain_la_liga,2025-10-05 12:30,real sociedad,rayo vallecano,coolbet,match_winner,away,3.90,0.3353,0.2490,34.69,0.3077,530.56
+sc freiburg_eintracht frankfurt_20251019,soccer_germany_bundesliga,2025-10-19 09:30,sc freiburg,eintracht frankfurt,onexbet,moneyline,draw,3.96,0.3300,0.2485,32.78,0.3068,518.24
+sc freiburg_eintracht frankfurt_20251019,soccer_germany_bundesliga,2025-10-19 09:30,sc freiburg,eintracht frankfurt,onexbet,moneyline,draw,3.96,0.3300,0.2485,32.78,0.3068,518.24
+torino_napoli_20251018,soccer_italy_serie_a,2025-10-18 12:00,torino,napoli,onexbet,moneyline,draw,3.96,0.3300,0.2488,32.65,0.3068,518.24
+torino_napoli_20251018,soccer_italy_serie_a,2025-10-18 12:00,torino,napoli,onexbet,moneyline,draw,3.96,0.3300,0.2488,32.65,0.3068,518.24
+cagliari_bologna_20251019,soccer_italy_serie_a,2025-10-19 09:00,cagliari,bologna,nordicbet,match_winner,home,3.40,0.3843,0.2824,36.11,0.3067,639.02
+burnley_leeds_20251018,soccer_epl,2025-10-18 10:00,burnley,leeds,betfair_ex_uk,match_winner,home,3.40,0.3843,0.2896,32.71,0.3067,639.02
+eintracht frankfurt_liverpool_20251022,soccer_uefa_champs_league,2025-10-22 15:00,eintracht frankfurt,liverpool,suprabets,match_winner,draw,4.80,0.2720,0.2047,32.90,0.3056,402.11
+lyon_toulouse_20251005,soccer_france_ligue_one,2025-10-05 09:00,lyon,toulouse,onexbet,moneyline,draw,3.92,0.3300,0.2512,31.36,0.2936,502.74
+lyon_toulouse_20251005,soccer_france_ligue_one,2025-10-05 09:00,lyon,toulouse,onexbet,moneyline,draw,3.92,0.3300,0.2512,31.36,0.2936,502.74
+rc lens_paris_20251019,soccer_france_ligue_one,2025-10-19 09:00,rc lens,paris,onexbet,moneyline,draw,3.92,0.3300,0.2513,31.33,0.2936,502.74
+rc lens_paris_20251019,soccer_france_ligue_one,2025-10-19 09:00,rc lens,paris,onexbet,moneyline,draw,3.92,0.3300,0.2513,31.33,0.2936,502.74
+getafe_real madrid_20251019,soccer_spain_la_liga,2025-10-19 15:00,getafe,real madrid,pinnacle,match_winner,draw,4.61,0.2804,0.2049,36.84,0.2924,405.03
+galatasaray_bodøglimt_20251022,soccer_uefa_champs_league,2025-10-22 12:45,galatasaray,bodøglimt,unibet_nl,match_winner,draw,4.60,0.2804,0.2114,32.59,0.2896,402.26
+newcastle_nottingham forest_20251005,soccer_epl,2025-10-05 09:00,newcastle,nottingham forest,betfair_ex_eu,match_winner,draw,4.60,0.2804,0.2149,30.46,0.2896,402.26
+man_sunderland_20251004,soccer_epl,2025-10-04 10:00,man,sunderland,betfair_ex_eu,match_winner,draw,4.60,0.2804,0.2157,29.99,0.2896,402.26
+spurs hotspur_aston villa_20251019,soccer_epl,2025-10-19 09:00,spurs hotspur,aston villa,betsson,moneyline,draw,3.90,0.3300,0.2465,33.87,0.2870,494.83
+spurs hotspur_aston villa_20251019,soccer_epl,2025-10-19 09:00,spurs hotspur,aston villa,betsson,moneyline,draw,3.90,0.3300,0.2465,33.87,0.2870,494.83
+union berlin_borussia monchengladbach_20251017,soccer_germany_bundesliga,2025-10-17 14:30,union berlin,borussia monchengladbach,unibet_nl,moneyline,draw,3.90,0.3300,0.2481,33.02,0.2870,494.83
+union berlin_borussia monchengladbach_20251017,soccer_germany_bundesliga,2025-10-17 14:30,union berlin,borussia monchengladbach,unibet_nl,moneyline,draw,3.90,0.3300,0.2481,33.02,0.2870,494.83
+athletic bilbao_mallorca_20251004,soccer_spain_la_liga,2025-10-04 12:30,athletic bilbao,mallorca,unibet_se,moneyline,draw,3.90,0.3300,0.2490,32.55,0.2870,494.83
+athletic bilbao_mallorca_20251004,soccer_spain_la_liga,2025-10-04 12:30,athletic bilbao,mallorca,unibet_se,moneyline,draw,3.90,0.3300,0.2490,32.55,0.2870,494.83
+psv eindhoven_napoli_20251021,soccer_uefa_champs_league,2025-10-21 15:00,psv eindhoven,napoli,unibet_se,moneyline,draw,3.90,0.3300,0.2491,32.46,0.2870,494.83
+psv eindhoven_napoli_20251021,soccer_uefa_champs_league,2025-10-21 15:00,psv eindhoven,napoli,unibet_se,moneyline,draw,3.90,0.3300,0.2491,32.46,0.2870,494.83
+chelsea_liverpool_20251004,soccer_epl,2025-10-04 12:30,chelsea,liverpool,betfair_ex_eu,moneyline,draw,3.90,0.3300,0.2557,29.08,0.2870,494.83
+chelsea_liverpool_20251004,soccer_epl,2025-10-04 12:30,chelsea,liverpool,betfair_ex_eu,moneyline,draw,3.90,0.3300,0.2557,29.08,0.2870,494.83
+brest_nantes_20251004,soccer_france_ligue_one,2025-10-04 13:00,brest,nantes,onexbet,moneyline,draw,3.88,0.3300,0.2541,29.89,0.2804,486.81
+brest_nantes_20251004,soccer_france_ligue_one,2025-10-04 13:00,brest,nantes,onexbet,moneyline,draw,3.88,0.3300,0.2541,29.89,0.2804,486.81
+bologna_pisa_20251005,soccer_italy_serie_a,2025-10-05 09:00,bologna,pisa,onexbet,moneyline,draw,3.87,0.3300,0.2547,29.58,0.2771,482.75
+bologna_pisa_20251005,soccer_italy_serie_a,2025-10-05 09:00,bologna,pisa,onexbet,moneyline,draw,3.87,0.3300,0.2547,29.58,0.2771,482.75
+vfl wolfsburg_vfb stuttgart_20251018,soccer_germany_bundesliga,2025-10-18 09:30,vfl wolfsburg,vfb stuttgart,unibet_nl,moneyline,draw,3.85,0.3300,0.2530,30.43,0.2705,474.56
+vfl wolfsburg_vfb stuttgart_20251018,soccer_germany_bundesliga,2025-10-18 09:30,vfl wolfsburg,vfb stuttgart,unibet_nl,moneyline,draw,3.85,0.3300,0.2530,30.43,0.2705,474.56
+fc copenhagen_borussia dortmund_20251021,soccer_uefa_champs_league,2025-10-21 15:00,fc copenhagen,borussia dortmund,unibet_se,moneyline,draw,3.85,0.3300,0.2534,30.23,0.2705,474.56
+fc copenhagen_borussia dortmund_20251021,soccer_uefa_champs_league,2025-10-21 15:00,fc copenhagen,borussia dortmund,unibet_se,moneyline,draw,3.85,0.3300,0.2534,30.23,0.2705,474.56
+sporting lisbon_marseille_20251022,soccer_uefa_champs_league,2025-10-22 15:00,sporting lisbon,marseille,betfair_ex_uk,moneyline,draw,3.85,0.3300,0.2554,29.23,0.2705,474.56
+sporting lisbon_marseille_20251022,soccer_uefa_champs_league,2025-10-22 15:00,sporting lisbon,marseille,betfair_ex_uk,moneyline,draw,3.85,0.3300,0.2554,29.23,0.2705,474.56
+psv eindhoven_napoli_20251021,soccer_uefa_champs_league,2025-10-21 15:00,psv eindhoven,napoli,coolbet,match_winner,home,3.30,0.3843,0.2927,31.31,0.2683,583.25
+atalanta bc_lazio_20251019,soccer_italy_serie_a,2025-10-19 12:00,atalanta bc,lazio,pinnacle,moneyline,away,3.72,0.3400,0.2556,33.05,0.2648,486.76
+atalanta bc_lazio_20251019,soccer_italy_serie_a,2025-10-19 12:00,atalanta bc,lazio,pinnacle,moneyline,away,3.72,0.3400,0.2556,33.05,0.2648,486.76
+elche cf_athletic bilbao_20251019,soccer_spain_la_liga,2025-10-19 08:00,elche cf,athletic bilbao,pinnacle,match_winner,home,3.27,0.3843,0.2916,31.79,0.2568,565.56
+1 köln_augsburg_20251018,soccer_germany_bundesliga,2025-10-18 09:30,1 köln,augsburg,tipico_de,moneyline,draw,3.80,0.3300,0.2497,32.14,0.2540,453.57
+1 köln_augsburg_20251018,soccer_germany_bundesliga,2025-10-18 09:30,1 köln,augsburg,tipico_de,moneyline,draw,3.80,0.3300,0.2497,32.14,0.2540,453.57
+hamburger sv_fsv mainz 05_20251005,soccer_germany_bundesliga,2025-10-05 11:30,hamburger sv,fsv mainz 05,unibet_nl,moneyline,draw,3.80,0.3300,0.2540,29.90,0.2540,453.57
+lorient_brest_20251019,soccer_france_ligue_one,2025-10-19 11:15,lorient,brest,unibet_nl,moneyline,draw,3.80,0.3300,0.2540,29.90,0.2540,453.57
+hamburger sv_fsv mainz 05_20251005,soccer_germany_bundesliga,2025-10-05 11:30,hamburger sv,fsv mainz 05,unibet_nl,moneyline,draw,3.80,0.3300,0.2540,29.90,0.2540,453.57
+lorient_brest_20251019,soccer_france_ligue_one,2025-10-19 11:15,lorient,brest,unibet_nl,moneyline,draw,3.80,0.3300,0.2540,29.90,0.2540,453.57
+nice_lyon_20251018,soccer_france_ligue_one,2025-10-18 11:00,nice,lyon,unibet_nl,moneyline,draw,3.80,0.3300,0.2548,29.50,0.2540,453.57
+nice_lyon_20251018,soccer_france_ligue_one,2025-10-18 11:00,nice,lyon,unibet_nl,moneyline,draw,3.80,0.3300,0.2548,29.50,0.2540,453.57
+fsv mainz 05_bayer leverkusen_20251018,soccer_germany_bundesliga,2025-10-18 09:30,fsv mainz 05,bayer leverkusen,unibet_nl,moneyline,draw,3.80,0.3300,0.2552,29.33,0.2540,453.57
+fsv mainz 05_bayer leverkusen_20251018,soccer_germany_bundesliga,2025-10-18 09:30,fsv mainz 05,bayer leverkusen,unibet_nl,moneyline,draw,3.80,0.3300,0.2552,29.33,0.2540,453.57
+atalanta bc_lazio_20251019,soccer_italy_serie_a,2025-10-19 12:00,atalanta bc,lazio,unibet_nl,moneyline,draw,3.80,0.3300,0.2556,29.12,0.2540,453.57
+atalanta bc_lazio_20251019,soccer_italy_serie_a,2025-10-19 12:00,atalanta bc,lazio,unibet_nl,moneyline,draw,3.80,0.3300,0.2556,29.12,0.2540,453.57
+fc st pauli_tsg hoffenheim_20251019,soccer_germany_bundesliga,2025-10-19 11:30,fc st pauli,tsg hoffenheim,unibet_nl,moneyline,draw,3.80,0.3300,0.2557,29.04,0.2540,453.57
+fc st pauli_tsg hoffenheim_20251019,soccer_germany_bundesliga,2025-10-19 11:30,fc st pauli,tsg hoffenheim,unibet_nl,moneyline,draw,3.80,0.3300,0.2557,29.04,0.2540,453.57
+werder bremen_fc st pauli_20251004,soccer_germany_bundesliga,2025-10-04 09:30,werder bremen,fc st pauli,unibet_nl,moneyline,draw,3.80,0.3300,0.2561,28.87,0.2540,453.57
+werder bremen_fc st pauli_20251004,soccer_germany_bundesliga,2025-10-04 09:30,werder bremen,fc st pauli,unibet_nl,moneyline,draw,3.80,0.3300,0.2561,28.87,0.2540,453.57
+nantes_lille_20251019,soccer_france_ligue_one,2025-10-19 14:45,nantes,lille,onexbet,moneyline,home,3.80,0.3300,0.2588,27.49,0.2540,453.57
+nantes_lille_20251019,soccer_france_ligue_one,2025-10-19 14:45,nantes,lille,onexbet,moneyline,home,3.80,0.3300,0.2588,27.49,0.2540,453.57
+auxerre_rc lens_20251004,soccer_france_ligue_one,2025-10-04 15:05,auxerre,rc lens,betfair_ex_eu,moneyline,draw,3.80,0.3300,0.2616,26.15,0.2540,453.57
+auxerre_rc lens_20251004,soccer_france_ligue_one,2025-10-04 15:05,auxerre,rc lens,betfair_ex_eu,moneyline,draw,3.80,0.3300,0.2616,26.15,0.2540,453.57
+wolverhampton wanderers_brighton and hove albion_20251005,soccer_epl,2025-10-05 09:00,wolverhampton wanderers,brighton and hove albion,betfair_ex_eu,moneyline,home,3.80,0.3300,0.2618,26.04,0.2540,453.57
+wolverhampton wanderers_brighton and hove albion_20251005,soccer_epl,2025-10-05 09:00,wolverhampton wanderers,brighton and hove albion,betfair_ex_eu,moneyline,home,3.80,0.3300,0.2618,26.04,0.2540,453.57
+fiorentina_as roma_20251005,soccer_italy_serie_a,2025-10-05 09:00,fiorentina,as roma,betfair_ex_eu,match_winner,home,3.25,0.3843,0.3073,25.08,0.2491,553.51
+fc copenhagen_borussia dortmund_20251021,soccer_uefa_champs_league,2025-10-21 15:00,fc copenhagen,borussia dortmund,suprabets,moneyline,home,3.78,0.3300,0.2596,27.11,0.2474,444.96
+fc copenhagen_borussia dortmund_20251021,soccer_uefa_champs_league,2025-10-21 15:00,fc copenhagen,borussia dortmund,suprabets,moneyline,home,3.78,0.3300,0.2596,27.11,0.2474,444.96
+atalanta bc_lazio_20251019,soccer_italy_serie_a,2025-10-19 12:00,atalanta bc,lazio,pinnacle,match_winner,away,3.72,0.3353,0.2556,31.21,0.2474,454.72
+auxerre_rc lens_20251004,soccer_france_ligue_one,2025-10-04 15:05,auxerre,rc lens,lowvig,moneyline,home,3.77,0.3300,0.2563,28.77,0.2441,440.61
+auxerre_rc lens_20251004,soccer_france_ligue_one,2025-10-04 15:05,auxerre,rc lens,lowvig,moneyline,home,3.77,0.3300,0.2563,28.77,0.2441,440.61
+alavés_elche cf_20251005,soccer_spain_la_liga,2025-10-05 08:00,alavés,elche cf,matchbook,moneyline,away,3.65,0.3400,0.2722,24.89,0.2410,454.72
+alavés_elche cf_20251005,soccer_spain_la_liga,2025-10-05 08:00,alavés,elche cf,matchbook,moneyline,away,3.65,0.3400,0.2722,24.89,0.2410,454.72
+nantes_lille_20251019,soccer_france_ligue_one,2025-10-19 14:45,nantes,lille,unibet_nl,moneyline,draw,3.75,0.3300,0.2562,28.82,0.2375,431.82
+nantes_lille_20251019,soccer_france_ligue_one,2025-10-19 14:45,nantes,lille,unibet_nl,moneyline,draw,3.75,0.3300,0.2562,28.82,0.2375,431.82
+1 heidenheim_werder bremen_20251018,soccer_germany_bundesliga,2025-10-18 09:30,1 heidenheim,werder bremen,unibet_se,moneyline,draw,3.75,0.3300,0.2562,28.78,0.2375,431.82
+1 heidenheim_werder bremen_20251018,soccer_germany_bundesliga,2025-10-18 09:30,1 heidenheim,werder bremen,unibet_se,moneyline,draw,3.75,0.3300,0.2562,28.78,0.2375,431.82
+borussia monchengladbach_sc freiburg_20251005,soccer_germany_bundesliga,2025-10-05 13:30,borussia monchengladbach,sc freiburg,unibet_nl,moneyline,draw,3.75,0.3300,0.2577,28.06,0.2375,431.82
+borussia monchengladbach_sc freiburg_20251005,soccer_germany_bundesliga,2025-10-05 13:30,borussia monchengladbach,sc freiburg,unibet_nl,moneyline,draw,3.75,0.3300,0.2577,28.06,0.2375,431.82
+nottingham forest_chelsea_20251018,soccer_epl,2025-10-18 07:30,nottingham forest,chelsea,leovegas,moneyline,draw,3.75,0.3300,0.2582,27.79,0.2375,431.82
+nottingham forest_chelsea_20251018,soccer_epl,2025-10-18 07:30,nottingham forest,chelsea,leovegas,moneyline,draw,3.75,0.3300,0.2582,27.79,0.2375,431.82
+crystal palace_bournemouth_20251018,soccer_epl,2025-10-18 10:00,crystal palace,bournemouth,unibet_nl,moneyline,draw,3.75,0.3300,0.2595,27.17,0.2375,431.82
+crystal palace_bournemouth_20251018,soccer_epl,2025-10-18 10:00,crystal palace,bournemouth,unibet_nl,moneyline,draw,3.75,0.3300,0.2595,27.17,0.2375,431.82
+wolverhampton wanderers_brighton and hove albion_20251005,soccer_epl,2025-10-05 09:00,wolverhampton wanderers,brighton and hove albion,smarkets,moneyline,draw,3.75,0.3300,0.2642,24.93,0.2375,431.82
+wolverhampton wanderers_brighton and hove albion_20251005,soccer_epl,2025-10-05 09:00,wolverhampton wanderers,brighton and hove albion,smarkets,moneyline,draw,3.75,0.3300,0.2642,24.93,0.2375,431.82
+nottingham forest_chelsea_20251018,soccer_epl,2025-10-18 07:30,nottingham forest,chelsea,tipico_de,match_winner,home,3.50,0.3528,0.2697,30.79,0.2347,469.47
+bayer leverkusen_paris saint germain_20251021,soccer_uefa_champs_league,2025-10-21 15:00,bayer leverkusen,paris saint germain,suprabets,match_winner,draw,4.40,0.2804,0.2229,25.77,0.2336,343.47
+union saintgilloise_inter milan_20251021,soccer_uefa_champs_league,2025-10-21 15:00,union saintgilloise,inter milan,suprabets,match_winner,draw,4.40,0.2804,0.2233,25.54,0.2336,343.47
+ac milan_fiorentina_20251019,soccer_italy_serie_a,2025-10-19 14:45,ac milan,fiorentina,onexbet,match_winner,draw,4.40,0.2804,0.2242,25.06,0.2336,343.47
+como_juventus_20251019,soccer_italy_serie_a,2025-10-19 06:30,como,juventus,tipico_de,match_winner,home,3.20,0.3843,0.2949,30.34,0.2299,522.41
+1 köln_augsburg_20251018,soccer_germany_bundesliga,2025-10-18 09:30,1 köln,augsburg,tipico_de,moneyline,away,3.60,0.3400,0.2636,28.98,0.2240,430.77
+1 köln_augsburg_20251018,soccer_germany_bundesliga,2025-10-18 09:30,1 köln,augsburg,tipico_de,moneyline,away,3.60,0.3400,0.2636,28.98,0.2240,430.77
+alavés_elche cf_20251005,soccer_spain_la_liga,2025-10-05 08:00,alavés,elche cf,matchbook,match_winner,away,3.65,0.3353,0.2722,23.17,0.2239,422.45
+brighton and hove albion_newcastle_20251018,soccer_epl,2025-10-18 10:00,brighton and hove albion,newcastle,unibet_nl,moneyline,draw,3.70,0.3300,0.2631,25.45,0.2210,409.26
+brighton and hove albion_newcastle_20251018,soccer_epl,2025-10-18 10:00,brighton and hove albion,newcastle,unibet_nl,moneyline,draw,3.70,0.3300,0.2631,25.45,0.2210,409.26
+as monaco_spurs hotspur_20251022,soccer_uefa_champs_league,2025-10-22 15:00,as monaco,spurs hotspur,suprabets,moneyline,draw,3.70,0.3300,0.2649,24.57,0.2210,409.26
+as monaco_spurs hotspur_20251022,soccer_uefa_champs_league,2025-10-22 15:00,as monaco,spurs hotspur,suprabets,moneyline,draw,3.70,0.3300,0.2649,24.57,0.2210,409.26
+west ham_brentford_20251020,soccer_epl,2025-10-20 15:00,west ham,brentford,onexbet,moneyline,draw,3.67,0.3300,0.2683,23.00,0.2111,395.32
+west ham_brentford_20251020,soccer_epl,2025-10-20 15:00,west ham,brentford,onexbet,moneyline,draw,3.67,0.3300,0.2683,23.00,0.2111,395.32
+1 köln_augsburg_20251018,soccer_germany_bundesliga,2025-10-18 09:30,1 köln,augsburg,tipico_de,match_winner,away,3.60,0.3353,0.2636,27.20,0.2071,398.33
+napoli_genoa_20251005,soccer_italy_serie_a,2025-10-05 12:00,napoli,genoa,unibet_se,match_winner,draw,4.30,0.2804,0.2267,23.67,0.2055,311.40
+newcastle_benfica_20251021,soccer_uefa_champs_league,2025-10-21 15:00,newcastle,benfica,unibet_nl,match_winner,draw,4.30,0.2804,0.2269,23.55,0.2055,311.40
+villarreal_man_20251021,soccer_uefa_champs_league,2025-10-21 15:00,villarreal,man,suprabets,match_winner,draw,4.30,0.2804,0.2291,22.35,0.2055,311.40
+augsburg_vfl wolfsburg_20251004,soccer_germany_bundesliga,2025-10-04 09:30,augsburg,vfl wolfsburg,onexbet,moneyline,draw,3.65,0.3300,0.2697,22.34,0.2045,385.85
+augsburg_vfl wolfsburg_20251004,soccer_germany_bundesliga,2025-10-04 09:30,augsburg,vfl wolfsburg,onexbet,moneyline,draw,3.65,0.3300,0.2697,22.34,0.2045,385.85
+le havre_rennes_20251005,soccer_france_ligue_one,2025-10-05 11:15,le havre,rennes,matchbook,moneyline,draw,3.65,0.3300,0.2722,21.22,0.2045,385.85
+le havre_rennes_20251005,soccer_france_ligue_one,2025-10-05 11:15,le havre,rennes,matchbook,moneyline,draw,3.65,0.3300,0.2722,21.22,0.2045,385.85
+real sociedad_rayo vallecano_20251005,soccer_spain_la_liga,2025-10-05 12:30,real sociedad,rayo vallecano,matchbook,moneyline,draw,3.65,0.3300,0.2737,20.57,0.2045,385.85
+real sociedad_rayo vallecano_20251005,soccer_spain_la_liga,2025-10-05 12:30,real sociedad,rayo vallecano,matchbook,moneyline,draw,3.65,0.3300,0.2737,20.57,0.2045,385.85
+le havre_rennes_20251005,soccer_france_ligue_one,2025-10-05 11:15,le havre,rennes,betfair_ex_uk,match_winner,home,3.10,0.3843,0.3193,20.36,0.1914,455.78
+spurs hotspur_aston villa_20251019,soccer_epl,2025-10-19 09:00,spurs hotspur,aston villa,unibet_nl,moneyline,away,3.50,0.3400,0.2782,22.21,0.1900,380.00
+spurs hotspur_aston villa_20251019,soccer_epl,2025-10-19 09:00,spurs hotspur,aston villa,unibet_nl,moneyline,away,3.50,0.3400,0.2782,22.21,0.1900,380.00
+sporting lisbon_marseille_20251022,soccer_uefa_champs_league,2025-10-22 15:00,sporting lisbon,marseille,betfair_ex_uk,moneyline,away,3.50,0.3400,0.2809,21.04,0.1900,380.00
+sporting lisbon_marseille_20251022,soccer_uefa_champs_league,2025-10-22 15:00,sporting lisbon,marseille,betfair_ex_uk,moneyline,away,3.50,0.3400,0.2809,21.04,0.1900,380.00
+arsenal_atlético madrid_20251021,soccer_uefa_champs_league,2025-10-21 15:00,arsenal,atlético madrid,suprabets,match_winner,draw,4.20,0.2832,0.2332,21.47,0.1896,296.24
+sevilla_mallorca_20251018,soccer_spain_la_liga,2025-10-18 08:00,sevilla,mallorca,onexbet,moneyline,draw,3.58,0.3300,0.2751,19.95,0.1814,351.55
+sevilla_mallorca_20251018,soccer_spain_la_liga,2025-10-18 08:00,sevilla,mallorca,onexbet,moneyline,draw,3.58,0.3300,0.2751,19.95,0.1814,351.55
+lille_paris saint germain_20251005,soccer_france_ligue_one,2025-10-05 14:45,lille,paris saint germain,casumo,match_winner,draw,4.20,0.2804,0.2266,23.72,0.1775,277.32
+as monaco_nice_20251005,soccer_france_ligue_one,2025-10-05 11:15,as monaco,nice,unibet_nl,match_winner,draw,4.20,0.2804,0.2295,22.17,0.1775,277.32
+toulouse_metz_20251019,soccer_france_ligue_one,2025-10-19 11:15,toulouse,metz,leovegas_se,match_winner,draw,4.20,0.2804,0.2305,21.63,0.1775,277.32
+bayer leverkusen_union berlin_20251004,soccer_germany_bundesliga,2025-10-04 09:30,bayer leverkusen,union berlin,unibet_nl,match_winner,draw,4.20,0.2804,0.2313,21.21,0.1775,277.32
+spurs hotspur_aston villa_20251019,soccer_epl,2025-10-19 09:00,spurs hotspur,aston villa,unibet_nl,match_winner,away,3.50,0.3353,0.2782,20.53,0.1736,347.20
+sporting lisbon_marseille_20251022,soccer_uefa_champs_league,2025-10-22 15:00,sporting lisbon,marseille,betfair_ex_uk,match_winner,away,3.50,0.3353,0.2809,19.37,0.1736,347.20
+celta vigo_real sociedad_20251019,soccer_spain_la_liga,2025-10-19 10:15,celta vigo,real sociedad,unibet_nl,moneyline,away,3.45,0.3400,0.2820,20.57,0.1730,353.06
+celta vigo_real sociedad_20251019,soccer_spain_la_liga,2025-10-19 10:15,celta vigo,real sociedad,unibet_nl,moneyline,away,3.45,0.3400,0.2820,20.57,0.1730,353.06
+hamburger sv_fsv mainz 05_20251005,soccer_germany_bundesliga,2025-10-05 11:30,hamburger sv,fsv mainz 05,betfair_ex_eu,match_winner,home,3.05,0.3843,0.3242,18.55,0.1722,420.03
+fiorentina_as roma_20251005,soccer_italy_serie_a,2025-10-05 09:00,fiorentina,as roma,onexbet,moneyline,draw,3.54,0.3300,0.2784,18.53,0.1682,331.10
+fiorentina_as roma_20251005,soccer_italy_serie_a,2025-10-05 09:00,fiorentina,as roma,onexbet,moneyline,draw,3.54,0.3300,0.2784,18.53,0.1682,331.10
+levante_rayo vallecano_20251019,soccer_spain_la_liga,2025-10-19 12:30,levante,rayo vallecano,pinnacle,moneyline,draw,3.53,0.3300,0.2701,22.18,0.1649,325.89
+levante_rayo vallecano_20251019,soccer_spain_la_liga,2025-10-19 12:30,levante,rayo vallecano,pinnacle,moneyline,draw,3.53,0.3300,0.2701,22.18,0.1649,325.89
+as monaco_spurs hotspur_20251022,soccer_uefa_champs_league,2025-10-22 15:00,as monaco,spurs hotspur,onexbet,match_winner,home,3.02,0.3843,0.3258,17.98,0.1607,397.73
+fc kairat_pafos_20251021,soccer_uefa_champs_league,2025-10-21 12:45,fc kairat,pafos,suprabets,moneyline,draw,3.51,0.3300,0.2792,18.18,0.1583,315.34
+fc kairat_pafos_20251021,soccer_uefa_champs_league,2025-10-21 12:45,fc kairat,pafos,suprabets,moneyline,draw,3.51,0.3300,0.2792,18.18,0.1583,315.34
+aston villa_burnley_20251005,soccer_epl,2025-10-05 09:00,aston villa,burnley,onexbet,match_winner,draw,4.13,0.2804,0.2384,17.60,0.1579,252.18
+rennes_auxerre_20251019,soccer_france_ligue_one,2025-10-19 11:15,rennes,auxerre,onexbet,match_winner,draw,4.13,0.2804,0.2389,17.36,0.1579,252.18
+fsv mainz 05_bayer leverkusen_20251018,soccer_germany_bundesliga,2025-10-18 09:30,fsv mainz 05,bayer leverkusen,onexbet,match_winner,home,3.01,0.3843,0.3271,17.50,0.1568,390.14
+celta vigo_real sociedad_20251019,soccer_spain_la_liga,2025-10-19 10:15,celta vigo,real sociedad,unibet_nl,match_winner,away,3.45,0.3353,0.2820,18.91,0.1568,320.07
+sunderland_wolverhampton wanderers_20251018,soccer_epl,2025-10-18 10:00,sunderland,wolverhampton wanderers,fanduel,moneyline,away,3.40,0.3400,0.2798,21.50,0.1560,325.00
+sunderland_wolverhampton wanderers_20251018,soccer_epl,2025-10-18 10:00,sunderland,wolverhampton wanderers,fanduel,moneyline,away,3.40,0.3400,0.2798,21.50,0.1560,325.00
+girona_valencia_20251004,soccer_spain_la_liga,2025-10-04 10:15,girona,valencia,matchbook,moneyline,away,3.40,0.3400,0.2927,16.17,0.1560,325.00
+girona_valencia_20251004,soccer_spain_la_liga,2025-10-04 10:15,girona,valencia,matchbook,moneyline,away,3.40,0.3400,0.2927,16.17,0.1560,325.00
+cagliari_bologna_20251019,soccer_italy_serie_a,2025-10-19 09:00,cagliari,bologna,winamax_de,moneyline,draw,3.50,0.3300,0.2662,23.98,0.1550,310.00
+cagliari_bologna_20251019,soccer_italy_serie_a,2025-10-19 09:00,cagliari,bologna,winamax_de,moneyline,draw,3.50,0.3300,0.2662,23.98,0.1550,310.00
+nottingham forest_chelsea_20251018,soccer_epl,2025-10-18 07:30,nottingham forest,chelsea,tipico_de,moneyline,home,3.50,0.3300,0.2697,22.34,0.1550,310.00
+nottingham forest_chelsea_20251018,soccer_epl,2025-10-18 07:30,nottingham forest,chelsea,tipico_de,moneyline,home,3.50,0.3300,0.2697,22.34,0.1550,310.00
+lazio_torino_20251004,soccer_italy_serie_a,2025-10-04 09:00,lazio,torino,betvictor,moneyline,draw,3.50,0.3300,0.2703,22.11,0.1550,310.00
+lazio_torino_20251004,soccer_italy_serie_a,2025-10-04 09:00,lazio,torino,betvictor,moneyline,draw,3.50,0.3300,0.2703,22.11,0.1550,310.00
+parma_lecce_20251004,soccer_italy_serie_a,2025-10-04 09:00,parma,lecce,unibet_se,moneyline,draw,3.50,0.3300,0.2772,19.05,0.1550,310.00
+parma_lecce_20251004,soccer_italy_serie_a,2025-10-04 09:00,parma,lecce,unibet_se,moneyline,draw,3.50,0.3300,0.2772,19.05,0.1550,310.00
+girona_valencia_20251004,soccer_spain_la_liga,2025-10-04 10:15,girona,valencia,unibet_se,moneyline,draw,3.50,0.3300,0.2780,18.73,0.1550,310.00
+como_juventus_20251019,soccer_italy_serie_a,2025-10-19 06:30,como,juventus,unibet_nl,moneyline,draw,3.50,0.3300,0.2780,18.73,0.1550,310.00
+girona_valencia_20251004,soccer_spain_la_liga,2025-10-04 10:15,girona,valencia,unibet_se,moneyline,draw,3.50,0.3300,0.2780,18.73,0.1550,310.00
+como_juventus_20251019,soccer_italy_serie_a,2025-10-19 06:30,como,juventus,unibet_nl,moneyline,draw,3.50,0.3300,0.2780,18.73,0.1550,310.00
+espanyol_real betis_20251005,soccer_spain_la_liga,2025-10-05 12:30,espanyol,real betis,unibet_nl,moneyline,draw,3.50,0.3300,0.2781,18.67,0.1550,310.00
+espanyol_real betis_20251005,soccer_spain_la_liga,2025-10-05 12:30,espanyol,real betis,unibet_nl,moneyline,draw,3.50,0.3300,0.2781,18.67,0.1550,310.00
+oviedo_espanyol_20251017,soccer_spain_la_liga,2025-10-17 15:00,oviedo,espanyol,unibet_se,match_winner,home,3.00,0.3843,0.3230,18.97,0.1530,382.49
+levante_rayo vallecano_20251019,soccer_spain_la_liga,2025-10-19 12:30,levante,rayo vallecano,unibet_nl,match_winner,home,3.00,0.3843,0.3235,18.81,0.1530,382.49
+juventus_ac milan_20251005,soccer_italy_serie_a,2025-10-05 14:45,juventus,ac milan,betfair_ex_eu,match_winner,home,3.00,0.3843,0.3313,15.99,0.1530,382.49
+leeds_spurs hotspur_20251004,soccer_epl,2025-10-04 07:30,leeds,spurs hotspur,smarkets,match_winner,home,3.00,0.3843,0.3344,14.93,0.1530,382.49
+celta vigo_atlético madrid_20251005,soccer_spain_la_liga,2025-10-05 15:00,celta vigo,atlético madrid,betfair_ex_eu,match_winner,draw,4.10,0.2804,0.2428,15.49,0.1495,241.05
+as roma_inter milan_20251018,soccer_italy_serie_a,2025-10-18 14:45,as roma,inter milan,nordicbet,match_winner,home,2.98,0.3843,0.3207,19.86,0.1453,366.94
+lecce_sassuolo_20251018,soccer_italy_serie_a,2025-10-18 09:00,lecce,sassuolo,betfair_ex_eu,match_winner,home,2.98,0.3843,0.3304,16.33,0.1453,366.94
+1 heidenheim_werder bremen_20251018,soccer_germany_bundesliga,2025-10-18 09:30,1 heidenheim,werder bremen,onexbet,match_winner,home,2.98,0.3843,0.3305,16.27,0.1453,366.94
+burnley_leeds_20251018,soccer_epl,2025-10-18 10:00,burnley,leeds,onexbet,moneyline,draw,3.46,0.3300,0.2848,15.88,0.1418,288.21
+burnley_leeds_20251018,soccer_epl,2025-10-18 10:00,burnley,leeds,onexbet,moneyline,draw,3.46,0.3300,0.2848,15.88,0.1418,288.21
+sunderland_wolverhampton wanderers_20251018,soccer_epl,2025-10-18 10:00,sunderland,wolverhampton wanderers,fanduel,match_winner,away,3.40,0.3353,0.2798,19.83,0.1401,291.81
+girona_valencia_20251004,soccer_spain_la_liga,2025-10-04 10:15,girona,valencia,matchbook,match_winner,away,3.40,0.3353,0.2927,14.57,0.1401,291.81
+cremonese_udinese_20251020,soccer_italy_serie_a,2025-10-20 14:45,cremonese,udinese,winamax_de,moneyline,draw,3.45,0.3300,0.2698,22.33,0.1385,282.65
+cremonese_udinese_20251020,soccer_italy_serie_a,2025-10-20 14:45,cremonese,udinese,winamax_de,moneyline,draw,3.45,0.3300,0.2698,22.33,0.1385,282.65
+as roma_inter milan_20251018,soccer_italy_serie_a,2025-10-18 14:45,as roma,inter milan,winamax_de,moneyline,draw,3.45,0.3300,0.2709,21.84,0.1385,282.65
+as roma_inter milan_20251018,soccer_italy_serie_a,2025-10-18 14:45,as roma,inter milan,winamax_de,moneyline,draw,3.45,0.3300,0.2709,21.84,0.1385,282.65
+pisa_hellas verona_20251018,soccer_italy_serie_a,2025-10-18 09:00,pisa,hellas verona,unibet_nl,moneyline,draw,3.45,0.3300,0.2805,17.65,0.1385,282.65
+pisa_hellas verona_20251018,soccer_italy_serie_a,2025-10-18 09:00,pisa,hellas verona,unibet_nl,moneyline,draw,3.45,0.3300,0.2805,17.65,0.1385,282.65
+atalanta bc_como_20251004,soccer_italy_serie_a,2025-10-04 14:45,atalanta bc,como,betfair_ex_eu,moneyline,draw,3.45,0.3300,0.2877,14.69,0.1385,282.65
+atalanta bc_como_20251004,soccer_italy_serie_a,2025-10-04 14:45,atalanta bc,como,betfair_ex_eu,moneyline,draw,3.45,0.3300,0.2877,14.69,0.1385,282.65
+alavés_valencia_20251020,soccer_spain_la_liga,2025-10-20 15:00,alavés,valencia,pinnacle,moneyline,away,3.33,0.3400,0.2859,18.94,0.1322,283.69
+alavés_valencia_20251020,soccer_spain_la_liga,2025-10-20 15:00,alavés,valencia,pinnacle,moneyline,away,3.33,0.3400,0.2859,18.94,0.1322,283.69
+crystal palace_bournemouth_20251018,soccer_epl,2025-10-18 10:00,crystal palace,bournemouth,paddypower,moneyline,away,3.30,0.3400,0.2823,20.43,0.1220,265.22
+crystal palace_bournemouth_20251018,soccer_epl,2025-10-18 10:00,crystal palace,bournemouth,paddypower,moneyline,away,3.30,0.3400,0.2823,20.43,0.1220,265.22
+genoa_parma_20251019,soccer_italy_serie_a,2025-10-19 09:00,genoa,parma,winamax_de,moneyline,draw,3.40,0.3300,0.2755,19.79,0.1220,254.17
+genoa_parma_20251019,soccer_italy_serie_a,2025-10-19 09:00,genoa,parma,winamax_de,moneyline,draw,3.40,0.3300,0.2755,19.79,0.1220,254.17
+celta vigo_real sociedad_20251019,soccer_spain_la_liga,2025-10-19 10:15,celta vigo,real sociedad,tipico_de,moneyline,draw,3.40,0.3300,0.2769,19.19,0.1220,254.17
+celta vigo_real sociedad_20251019,soccer_spain_la_liga,2025-10-19 10:15,celta vigo,real sociedad,tipico_de,moneyline,draw,3.40,0.3300,0.2769,19.19,0.1220,254.17
+cagliari_bologna_20251019,soccer_italy_serie_a,2025-10-19 09:00,cagliari,bologna,nordicbet,moneyline,home,3.40,0.3300,0.2824,16.87,0.1220,254.17
+cagliari_bologna_20251019,soccer_italy_serie_a,2025-10-19 09:00,cagliari,bologna,nordicbet,moneyline,home,3.40,0.3300,0.2824,16.87,0.1220,254.17
+oviedo_levante_20251004,soccer_spain_la_liga,2025-10-04 08:00,oviedo,levante,unibet_se,moneyline,draw,3.40,0.3300,0.2850,15.81,0.1220,254.17
+oviedo_levante_20251004,soccer_spain_la_liga,2025-10-04 08:00,oviedo,levante,unibet_se,moneyline,draw,3.40,0.3300,0.2850,15.81,0.1220,254.17
+sunderland_wolverhampton wanderers_20251018,soccer_epl,2025-10-18 10:00,sunderland,wolverhampton wanderers,leovegas,moneyline,draw,3.40,0.3300,0.2852,15.70,0.1220,254.17
+sunderland_wolverhampton wanderers_20251018,soccer_epl,2025-10-18 10:00,sunderland,wolverhampton wanderers,leovegas,moneyline,draw,3.40,0.3300,0.2852,15.70,0.1220,254.17
+lecce_sassuolo_20251018,soccer_italy_serie_a,2025-10-18 09:00,lecce,sassuolo,unibet_nl,moneyline,draw,3.40,0.3300,0.2861,15.36,0.1220,254.17
+lecce_sassuolo_20251018,soccer_italy_serie_a,2025-10-18 09:00,lecce,sassuolo,unibet_nl,moneyline,draw,3.40,0.3300,0.2861,15.36,0.1220,254.17
+burnley_leeds_20251018,soccer_epl,2025-10-18 10:00,burnley,leeds,betfair_ex_uk,moneyline,home,3.40,0.3300,0.2896,13.95,0.1220,254.17
+burnley_leeds_20251018,soccer_epl,2025-10-18 10:00,burnley,leeds,betfair_ex_uk,moneyline,home,3.40,0.3300,0.2896,13.95,0.1220,254.17
+atalanta bc_como_20251004,soccer_italy_serie_a,2025-10-04 14:45,atalanta bc,como,matchbook,moneyline,away,3.30,0.3400,0.3022,12.51,0.1220,265.22
+atalanta bc_como_20251004,soccer_italy_serie_a,2025-10-04 14:45,atalanta bc,como,matchbook,moneyline,away,3.30,0.3400,0.3022,12.51,0.1220,265.22
+villarreal_real betis_20251018,soccer_spain_la_liga,2025-10-18 12:30,villarreal,real betis,tipico_de,match_winner,draw,4.00,0.2804,0.2360,18.82,0.1214,202.36
+strasbourg_angers_20251005,soccer_france_ligue_one,2025-10-05 11:15,strasbourg,angers,onexbet,match_winner,draw,4.00,0.2804,0.2464,13.77,0.1214,202.36
+alavés_valencia_20251020,soccer_spain_la_liga,2025-10-20 15:00,alavés,valencia,pinnacle,match_winner,away,3.33,0.3353,0.2859,17.30,0.1166,250.21
+cremonese_udinese_20251020,soccer_italy_serie_a,2025-10-20 14:45,cremonese,udinese,tipico_de,match_winner,home,2.90,0.3843,0.3254,18.10,0.1146,301.48
+sc freiburg_eintracht frankfurt_20251019,soccer_germany_bundesliga,2025-10-19 09:30,sc freiburg,eintracht frankfurt,onexbet,match_winner,draw,3.96,0.2804,0.2485,12.80,0.1102,186.15
+torino_napoli_20251018,soccer_italy_serie_a,2025-10-18 12:00,torino,napoli,onexbet,match_winner,draw,3.96,0.2804,0.2488,12.69,0.1102,186.15
+crystal palace_bournemouth_20251018,soccer_epl,2025-10-18 10:00,crystal palace,bournemouth,paddypower,match_winner,away,3.30,0.3353,0.2823,18.77,0.1065,231.60
+atalanta bc_como_20251004,soccer_italy_serie_a,2025-10-04 14:45,atalanta bc,como,matchbook,match_winner,away,3.30,0.3353,0.3022,10.95,0.1065,231.60
+oviedo_espanyol_20251017,soccer_spain_la_liga,2025-10-17 15:00,oviedo,espanyol,unibet_se,moneyline,draw,3.35,0.3300,0.2893,14.07,0.1055,224.47
+oviedo_espanyol_20251017,soccer_spain_la_liga,2025-10-17 15:00,oviedo,espanyol,unibet_se,moneyline,draw,3.35,0.3300,0.2893,14.07,0.1055,224.47
+everton_crystal palace_20251005,soccer_epl,2025-10-05 09:00,everton,crystal palace,unibet_nl,moneyline,draw,3.35,0.3300,0.2953,11.77,0.1055,224.47
+everton_crystal palace_20251005,soccer_epl,2025-10-05 09:00,everton,crystal palace,unibet_nl,moneyline,draw,3.35,0.3300,0.2953,11.77,0.1055,224.47
+leeds_spurs hotspur_20251004,soccer_epl,2025-10-04 07:30,leeds,spurs hotspur,smarkets,moneyline,draw,3.35,0.3300,0.2995,10.20,0.1055,224.47
+leeds_spurs hotspur_20251004,soccer_epl,2025-10-04 07:30,leeds,spurs hotspur,smarkets,moneyline,draw,3.35,0.3300,0.2995,10.20,0.1055,224.47
+lyon_toulouse_20251005,soccer_france_ligue_one,2025-10-05 09:00,lyon,toulouse,onexbet,match_winner,draw,3.92,0.2804,0.2512,11.60,0.0990,169.50
+rc lens_paris_20251019,soccer_france_ligue_one,2025-10-19 09:00,rc lens,paris,onexbet,match_winner,draw,3.92,0.2804,0.2513,11.58,0.0990,169.50
+pisa_hellas verona_20251018,soccer_italy_serie_a,2025-10-18 09:00,pisa,hellas verona,onexbet,moneyline,away,3.23,0.3400,0.3044,11.68,0.0982,220.18
+pisa_hellas verona_20251018,soccer_italy_serie_a,2025-10-18 09:00,pisa,hellas verona,onexbet,moneyline,away,3.23,0.3400,0.3044,11.68,0.0982,220.18
+spurs hotspur_aston villa_20251019,soccer_epl,2025-10-19 09:00,spurs hotspur,aston villa,betsson,match_winner,draw,3.90,0.2804,0.2465,13.73,0.0934,161.00
+union berlin_borussia monchengladbach_20251017,soccer_germany_bundesliga,2025-10-17 14:30,union berlin,borussia monchengladbach,unibet_nl,match_winner,draw,3.90,0.2804,0.2481,13.00,0.0934,161.00
+athletic bilbao_mallorca_20251004,soccer_spain_la_liga,2025-10-04 12:30,athletic bilbao,mallorca,unibet_se,match_winner,draw,3.90,0.2804,0.2490,12.61,0.0934,161.00
+psv eindhoven_napoli_20251021,soccer_uefa_champs_league,2025-10-21 15:00,psv eindhoven,napoli,unibet_se,match_winner,draw,3.90,0.2804,0.2491,12.53,0.0934,161.00
+udinese_cagliari_20251005,soccer_italy_serie_a,2025-10-05 06:30,udinese,cagliari,onexbet,moneyline,draw,3.31,0.3300,0.2973,11.01,0.0923,199.78
+udinese_cagliari_20251005,soccer_italy_serie_a,2025-10-05 06:30,udinese,cagliari,onexbet,moneyline,draw,3.31,0.3300,0.2973,11.01,0.0923,199.78
+juventus_ac milan_20251005,soccer_italy_serie_a,2025-10-05 14:45,juventus,ac milan,onexbet,moneyline,draw,3.31,0.3300,0.2975,10.94,0.0923,199.78
+juventus_ac milan_20251005,soccer_italy_serie_a,2025-10-05 14:45,juventus,ac milan,onexbet,moneyline,draw,3.31,0.3300,0.2975,10.94,0.0923,199.78
+chelsea_liverpool_20251004,soccer_epl,2025-10-04 12:30,chelsea,liverpool,smarkets,match_winner,home,3.00,0.3640,0.3312,9.87,0.0919,229.67
+psv eindhoven_napoli_20251021,soccer_uefa_champs_league,2025-10-21 15:00,psv eindhoven,napoli,coolbet,moneyline,home,3.30,0.3300,0.2927,12.75,0.0890,193.48
+psv eindhoven_napoli_20251021,soccer_uefa_champs_league,2025-10-21 15:00,psv eindhoven,napoli,coolbet,moneyline,home,3.30,0.3300,0.2927,12.75,0.0890,193.48
+union berlin_borussia monchengladbach_20251017,soccer_germany_bundesliga,2025-10-17 14:30,union berlin,borussia monchengladbach,fanduel,moneyline,away,3.20,0.3400,0.2909,16.90,0.0880,200.00
+union berlin_borussia monchengladbach_20251017,soccer_germany_bundesliga,2025-10-17 14:30,union berlin,borussia monchengladbach,fanduel,moneyline,away,3.20,0.3400,0.2909,16.90,0.0880,200.00
+west ham_brentford_20251020,soccer_epl,2025-10-20 15:00,west ham,brentford,unibet_nl,moneyline,away,3.20,0.3400,0.3060,11.11,0.0880,200.00
+west ham_brentford_20251020,soccer_epl,2025-10-20 15:00,west ham,brentford,unibet_nl,moneyline,away,3.20,0.3400,0.3060,11.11,0.0880,200.00
+oviedo_levante_20251004,soccer_spain_la_liga,2025-10-04 08:00,oviedo,levante,smarkets,moneyline,away,3.20,0.3400,0.3087,10.14,0.0880,200.00
+oviedo_levante_20251004,soccer_spain_la_liga,2025-10-04 08:00,oviedo,levante,smarkets,moneyline,away,3.20,0.3400,0.3087,10.14,0.0880,200.00
+brest_nantes_20251004,soccer_france_ligue_one,2025-10-04 13:00,brest,nantes,onexbet,match_winner,draw,3.88,0.2804,0.2541,10.35,0.0878,152.39
+bologna_pisa_20251005,soccer_italy_serie_a,2025-10-05 09:00,bologna,pisa,onexbet,match_winner,draw,3.87,0.2804,0.2547,10.09,0.0850,148.03
+fc st pauli_tsg hoffenheim_20251019,soccer_germany_bundesliga,2025-10-19 11:30,fc st pauli,tsg hoffenheim,onexbet,moneyline,away,3.19,0.3400,0.3089,10.09,0.0846,193.15
+fc st pauli_tsg hoffenheim_20251019,soccer_germany_bundesliga,2025-10-19 11:30,fc st pauli,tsg hoffenheim,onexbet,moneyline,away,3.19,0.3400,0.3089,10.09,0.0846,193.15
+pisa_hellas verona_20251018,soccer_italy_serie_a,2025-10-18 09:00,pisa,hellas verona,onexbet,match_winner,away,3.23,0.3353,0.3044,10.14,0.0831,186.24
+vfl wolfsburg_vfb stuttgart_20251018,soccer_germany_bundesliga,2025-10-18 09:30,vfl wolfsburg,vfb stuttgart,unibet_nl,match_winner,draw,3.85,0.2804,0.2530,10.81,0.0794,139.23
+fc copenhagen_borussia dortmund_20251021,soccer_uefa_champs_league,2025-10-21 15:00,fc copenhagen,borussia dortmund,unibet_se,match_winner,draw,3.85,0.2804,0.2534,10.64,0.0794,139.23
+sporting lisbon_marseille_20251022,soccer_uefa_champs_league,2025-10-22 15:00,sporting lisbon,marseille,betfair_ex_uk,match_winner,draw,3.85,0.2804,0.2554,9.79,0.0794,139.23
+elche cf_athletic bilbao_20251019,soccer_spain_la_liga,2025-10-19 08:00,elche cf,athletic bilbao,pinnacle,moneyline,home,3.27,0.3300,0.2916,13.16,0.0791,174.23
+elche cf_athletic bilbao_20251019,soccer_spain_la_liga,2025-10-19 08:00,elche cf,athletic bilbao,pinnacle,moneyline,home,3.27,0.3300,0.2916,13.16,0.0791,174.23
+augsburg_vfl wolfsburg_20251004,soccer_germany_bundesliga,2025-10-04 09:30,augsburg,vfl wolfsburg,bovada,match_winner,home,2.80,0.3843,0.3393,13.28,0.0761,211.47
+fc kairat_pafos_20251021,soccer_uefa_champs_league,2025-10-21 12:45,fc kairat,pafos,unibet_se,match_winner,home,2.80,0.3843,0.3487,10.23,0.0761,211.47
+union berlin_borussia monchengladbach_20251017,soccer_germany_bundesliga,2025-10-17 14:30,union berlin,borussia monchengladbach,fanduel,match_winner,away,3.20,0.3353,0.2909,15.28,0.0730,165.92
+west ham_brentford_20251020,soccer_epl,2025-10-20 15:00,west ham,brentford,unibet_nl,match_winner,away,3.20,0.3353,0.3060,9.58,0.0730,165.92
+oviedo_levante_20251004,soccer_spain_la_liga,2025-10-04 08:00,oviedo,levante,smarkets,match_winner,away,3.20,0.3353,0.3087,8.63,0.0730,165.92
+fiorentina_as roma_20251005,soccer_italy_serie_a,2025-10-05 09:00,fiorentina,as roma,betfair_ex_eu,moneyline,home,3.25,0.3300,0.3073,7.39,0.0725,161.11
+fiorentina_as roma_20251005,soccer_italy_serie_a,2025-10-05 09:00,fiorentina,as roma,betfair_ex_eu,moneyline,home,3.25,0.3300,0.3073,7.39,0.0725,161.11
+fc st pauli_tsg hoffenheim_20251019,soccer_germany_bundesliga,2025-10-19 11:30,fc st pauli,tsg hoffenheim,onexbet,match_winner,away,3.19,0.3353,0.3089,8.57,0.0697,159.02
+1 köln_augsburg_20251018,soccer_germany_bundesliga,2025-10-18 09:30,1 köln,augsburg,tipico_de,match_winner,draw,3.80,0.2804,0.2497,12.26,0.0653,116.69
+hamburger sv_fsv mainz 05_20251005,soccer_germany_bundesliga,2025-10-05 11:30,hamburger sv,fsv mainz 05,unibet_nl,match_winner,draw,3.80,0.2804,0.2540,10.36,0.0653,116.69
+lorient_brest_20251019,soccer_france_ligue_one,2025-10-19 11:15,lorient,brest,unibet_nl,match_winner,draw,3.80,0.2804,0.2540,10.36,0.0653,116.69
+nice_lyon_20251018,soccer_france_ligue_one,2025-10-18 11:00,nice,lyon,unibet_nl,match_winner,draw,3.80,0.2804,0.2548,10.02,0.0653,116.69
+fsv mainz 05_bayer leverkusen_20251018,soccer_germany_bundesliga,2025-10-18 09:30,fsv mainz 05,bayer leverkusen,unibet_nl,match_winner,draw,3.80,0.2804,0.2552,9.87,0.0653,116.69
+atalanta bc_lazio_20251019,soccer_italy_serie_a,2025-10-19 12:00,atalanta bc,lazio,unibet_nl,match_winner,draw,3.80,0.2804,0.2556,9.69,0.0653,116.69
+fc st pauli_tsg hoffenheim_20251019,soccer_germany_bundesliga,2025-10-19 11:30,fc st pauli,tsg hoffenheim,unibet_nl,match_winner,draw,3.80,0.2804,0.2557,9.63,0.0653,116.69
+werder bremen_fc st pauli_20251004,soccer_germany_bundesliga,2025-10-04 09:30,werder bremen,fc st pauli,unibet_nl,match_winner,draw,3.80,0.2804,0.2561,9.48,0.0653,116.69
+auxerre_rc lens_20251004,soccer_france_ligue_one,2025-10-04 15:05,auxerre,rc lens,betfair_ex_eu,match_winner,draw,3.80,0.2804,0.2616,7.18,0.0653,116.69
+alavés_valencia_20251020,soccer_spain_la_liga,2025-10-20 15:00,alavés,valencia,onexbet,moneyline,draw,3.21,0.3300,0.3065,7.67,0.0593,134.16
+alavés_valencia_20251020,soccer_spain_la_liga,2025-10-20 15:00,alavés,valencia,onexbet,moneyline,draw,3.21,0.3300,0.3065,7.67,0.0593,134.16
+elche cf_athletic bilbao_20251019,soccer_spain_la_liga,2025-10-19 08:00,elche cf,athletic bilbao,tipico_de,moneyline,draw,3.20,0.3300,0.2949,11.91,0.0560,127.27
+como_juventus_20251019,soccer_italy_serie_a,2025-10-19 06:30,como,juventus,tipico_de,moneyline,home,3.20,0.3300,0.2949,11.91,0.0560,127.27
+elche cf_athletic bilbao_20251019,soccer_spain_la_liga,2025-10-19 08:00,elche cf,athletic bilbao,tipico_de,moneyline,draw,3.20,0.3300,0.2949,11.91,0.0560,127.27
+como_juventus_20251019,soccer_italy_serie_a,2025-10-19 06:30,como,juventus,tipico_de,moneyline,home,3.20,0.3300,0.2949,11.91,0.0560,127.27
+lorient_brest_20251019,soccer_france_ligue_one,2025-10-19 11:15,lorient,brest,tipico_de,moneyline,away,3.10,0.3400,0.3015,12.78,0.0540,128.57
+lorient_brest_20251019,soccer_france_ligue_one,2025-10-19 11:15,lorient,brest,tipico_de,moneyline,away,3.10,0.3400,0.3015,12.78,0.0540,128.57
+everton_crystal palace_20251005,soccer_epl,2025-10-05 09:00,everton,crystal palace,betfair_ex_eu,moneyline,away,3.10,0.3400,0.3202,6.17,0.0540,128.57
+everton_crystal palace_20251005,soccer_epl,2025-10-05 09:00,everton,crystal palace,betfair_ex_eu,moneyline,away,3.10,0.3400,0.3202,6.17,0.0540,128.57
+espanyol_real betis_20251005,soccer_spain_la_liga,2025-10-05 12:30,espanyol,real betis,betfair_ex_uk,match_winner,home,2.74,0.3843,0.3639,5.60,0.0531,152.50
+nantes_lille_20251019,soccer_france_ligue_one,2025-10-19 14:45,nantes,lille,unibet_nl,match_winner,draw,3.75,0.2804,0.2562,9.44,0.0513,93.32
+1 heidenheim_werder bremen_20251018,soccer_germany_bundesliga,2025-10-18 09:30,1 heidenheim,werder bremen,unibet_se,match_winner,draw,3.75,0.2804,0.2562,9.41,0.0513,93.32
+borussia monchengladbach_sc freiburg_20251005,soccer_germany_bundesliga,2025-10-05 13:30,borussia monchengladbach,sc freiburg,unibet_nl,match_winner,draw,3.75,0.2804,0.2577,8.80,0.0513,93.32
+crystal palace_bournemouth_20251018,soccer_epl,2025-10-18 10:00,crystal palace,bournemouth,unibet_nl,match_winner,draw,3.75,0.2804,0.2595,8.03,0.0513,93.32
+wolverhampton wanderers_brighton and hove albion_20251005,soccer_epl,2025-10-05 09:00,wolverhampton wanderers,brighton and hove albion,smarkets,match_winner,draw,3.75,0.2804,0.2642,6.13,0.0513,93.32
+alavés_elche cf_20251005,soccer_spain_la_liga,2025-10-05 08:00,alavés,elche cf,onexbet,moneyline,draw,3.17,0.3300,0.3107,6.20,0.0461,106.22
+alavés_elche cf_20251005,soccer_spain_la_liga,2025-10-05 08:00,alavés,elche cf,onexbet,moneyline,draw,3.17,0.3300,0.3107,6.20,0.0461,106.22
+borussia monchengladbach_sc freiburg_20251005,soccer_germany_bundesliga,2025-10-05 13:30,borussia monchengladbach,sc freiburg,betonlineag,moneyline,away,3.06,0.3400,0.3157,7.71,0.0404,98.06
+borussia monchengladbach_sc freiburg_20251005,soccer_germany_bundesliga,2025-10-05 13:30,borussia monchengladbach,sc freiburg,betonlineag,moneyline,away,3.06,0.3400,0.3157,7.71,0.0404,98.06
+lorient_brest_20251019,soccer_france_ligue_one,2025-10-19 11:15,lorient,brest,tipico_de,match_winner,away,3.10,0.3353,0.3015,11.23,0.0395,93.99
+everton_crystal palace_20251005,soccer_epl,2025-10-05 09:00,everton,crystal palace,betfair_ex_eu,match_winner,away,3.10,0.3353,0.3202,4.71,0.0395,93.99
+sc freiburg_eintracht frankfurt_20251019,soccer_germany_bundesliga,2025-10-19 09:30,sc freiburg,eintracht frankfurt,tipico_de,match_winner,home,2.70,0.3843,0.3507,9.59,0.0377,110.87
+brighton and hove albion_newcastle_20251018,soccer_epl,2025-10-18 10:00,brighton and hove albion,newcastle,unibet_nl,match_winner,draw,3.70,0.2804,0.2631,6.57,0.0373,69.09
+as monaco_spurs hotspur_20251022,soccer_uefa_champs_league,2025-10-22 15:00,as monaco,spurs hotspur,suprabets,match_winner,draw,3.70,0.2804,0.2649,5.83,0.0373,69.09
+west ham_brentford_20251020,soccer_epl,2025-10-20 15:00,west ham,brentford,onexbet,match_winner,draw,3.67,0.2804,0.2683,4.49,0.0289,54.12
+borussia monchengladbach_sc freiburg_20251005,soccer_germany_bundesliga,2025-10-05 13:30,borussia monchengladbach,sc freiburg,betonlineag,match_winner,away,3.06,0.3353,0.3157,6.23,0.0261,63.26
